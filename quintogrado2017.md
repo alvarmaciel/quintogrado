@@ -8,7 +8,7 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
 
 
 | One    | Two | Three | Four    | Five  | Six 
-| -
+| ---------------------------------------------|
 | Span <td colspan=3>triple  <td colspan=2>double
 
 ### Situaciones habituales
