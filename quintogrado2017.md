@@ -6,10 +6,9 @@ Una comunidad de escritores que producen sus propios textos para dar a conocer s
 Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y vitales, donde leer y escribir sean instrumentos poderosos que permitan repensar el mundo y reorganizar el propio pensamiento, donde interpretar y producir textos sean derechos que es legítimo ejercer y responsabilidades que es necesario asumir.
 
 
-
-| One    | Two | Three | Four    | Five  | Six 
-| ---------------------------------------------|
-| Span <td colspan=3>triple  <td colspan=2>double
+| Header | otra|
+|--------------|
+| 0 | 1 |
 
 ### Situaciones habituales
 #### Portfolio de producciones
