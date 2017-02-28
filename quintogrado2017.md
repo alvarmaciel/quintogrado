@@ -7,7 +7,7 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
 
 
 | Header | otra|
-|--------------|
+|-------|-------|
 | 0 | 1 |
 
 ### Situaciones habituales
