@@ -1,11 +1,11 @@
 # Planificación anual
 
 ## Prácticas del lenguaje
-Para formar practicantes de la lectura y la escritura, es necesario hacer de la escuela una comunidad de lectores y escritores. Una comunidad de lectores que acuden a los textos buscando respuesta para los problemas que necesitan resolver, tratando de encontrar información para comprender mejor algún aspecto del mundo que es objeto de sus preocupaciones, buscando argumentos para defender una posición con la que están comprometidos o para rebatir otra que consideran peligrosa o injusta, deseando conocer otros modos de vida, identificarse con otros autores y personajes o diferenciarse de ellos, correr otras aventuras, enterarse de otras historias, descubrir otras formas de utilizar el lenguaje para crear nuevos sentidos...
+>Para formar practicantes de la lectura y la escritura, es necesario hacer de la escuela una comunidad de lectores y escritores. Una comunidad de lectores que acuden a los textos buscando respuesta para los problemas que necesitan resolver, tratando de encontrar información para comprender mejor algún aspecto del mundo que es objeto de sus preocupaciones, buscando argumentos para defender una posición con la que están comprometidos o para rebatir otra que consideran peligrosa o injusta, deseando conocer otros modos de vida, identificarse con otros autores y personajes o diferenciarse de ellos, correr otras aventuras, enterarse de otras historias, descubrir otras formas de utilizar el lenguaje para crear nuevos sentidos...
 Una comunidad de escritores que producen sus propios textos para dar a conocer sus ideas, para informar sobre hechos que los destinatarios necesitan o deben conocer, para incitar a sus lectores a emprender acciones que consideran valiosas, para convencerlos de la validez de los puntos de vista o de las propuestas que intentan promover, para protestar o reclamar, para compartir con los demás una bella frase o un buen escrito, para intrigar o hacer reír...
 Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y vitales, donde leer y escribir sean instrumentos poderosos que permitan repensar el mundo y reorganizar el propio pensamiento, donde interpretar y producir textos sean derechos que es legítimo ejercer y responsabilidades que es necesario asumir.
 
-
+>Diseño Curricular Tomo 2 G.C.A.B.A
 
 <table>
 <tr>
@@ -22,7 +22,7 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
 </tr>
 <tr>
 
-  <td rowspan="3" colspan="5">Portfolio de producciones del año <br/> Biblioteca del aula <br/> Biblioteca institucional</td>
+  <td rowspan="3" colspan="5">Portfolio de producciones del año <br/> Biblioteca del aula <br/> Asamblea de grado<br/> Biblioteca institucional</td>
 
 
 </tr>
@@ -47,6 +47,53 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
 </tr>
 </table>
 
+<table>
+<tr>
+<th colspan="7" align="center"> Segundo Cuatrimestre 2017</td>
+</th>
+<tr>
+  <th rowspan="7"> Modalidades Organizativas</th>
+  <th rowspan="4" valign="bottom">Situaciones habituales</th>
+  <th>Agosto</th>
+  <th>Septiembre</th>
+  <th>Octubre</th>
+  <th>Noviembre</th>
+  <th>Diciembre</th>
+</tr>
+<tr>
+
+  <td rowspan="3" colspan="5">Portfolio de producciones del año <br/> Biblioteca del aula <br/> Asamblea de grado <br/> Biblioteca institucional</td>
+
+
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+  <th rowspan="3"> Secuencias y Proyectos</th>
+  <td colspan="3">Seguir un autor</td>
+    <td></td>
+  <td></td>
+</tr>
+  <td border="0"></td>
+  <td colspan="2">Leer y escribir para estudiar</td>
+  <td colspan="2"></td>
+
+<tr>
+  <td colspan="2"></td>
+
+  <td colspan="3">Leer en medios digitales</td>
+</tr>
+</table>
+
+### Relevamiento de punto de partida
+
+1. Completar una ficha con información de cuentos que hayan leído el año anterior
+  ![Ficha del lector](imagenes/ficha_del_lector.png)
+2. Secuencia corta "La bruja de abril" de Ray Bradbury
+
+
 ### Situaciones habituales
 #### Portfolio de producciones
 #### Asamblea de grado
@@ -62,9 +109,12 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
 ### Situaciones para valorar y reflexionar sobre los procesos
 
 ## Matemáticas
+Seleccioné este recorte teniendo en cuenta que “la enseñanza de la multiplicación y de la división demanda varios años de trabajo en la escolaridad para que los alumnos puedan identificar los diferentes problemas que esas herramientas permiten resolver, logren dominar la variedad de relaciones numéricas que es posible establecer y elaboren la diversidad de recursos de cálculo que es pertinente disponera propósito de estas operaciones."[^1]
 
 ## Ciencias Sociales
 
 ## Ciencias Naturales
 
 ## Formación ética y ciudadana
+
+[^1] Itzcovich, H.,(2007) La Matemática escolar: las prácticas de enseñanza en el aula. Buenos Aires, Aique.
