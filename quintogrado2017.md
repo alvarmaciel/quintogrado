@@ -13,7 +13,7 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
 </th>
 <tr>
   <th rowspan="7"> Modalidades Organizativas</th>
-  <td></td>
+  <th rowspan="4" valign="bottom">Situaciones habituales</th>
   <th>Marzo</th>
   <th>Abril</th>
   <th>Mayo</th>
@@ -21,7 +21,7 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
   <th>Julio</th>
 </tr>
 <tr>
-  <th rowspan="3">Situaciones habituales</th>
+
   <td rowspan="3" colspan="5">Portfolio de producciones del año <br/> Biblioteca del aula <br/> Biblioteca institucional</td>
 
 
