@@ -4,12 +4,12 @@
 
 | Horario        | Lunes          | Martes        |Miércoles      |Jueves         | Viernes       |
 | ------------   |-----------     |-----          |-------        |------         |-----------    |
-| 1              | P. del Lenguaje| Matemáticas   |C. Sociales    |P. del Lenguaje|matemáticas    |
-| 2              | P. del Lenguaje| Matemáticas   |C. Sociales    |P. del Lenguaje|P. del Lenguaje|
+| 1              | P. del Lenguaje| Matemáticas   |C. Sociales    |P. del Lenguaje|P. del lenguaje|
+| 2              | Plástica       | Matemáticas   |C. Sociales    |P. del Lenguaje|P. del Lenguaje|
 | 3              | Educ. Fisica   |C. Naturales   |Inglés         | Asamblea      |Educ. Física   |
 | 4              | Inglés         |C. Naturales   |Inglés         | Música        |C. Sociales    |
 | 5              | Matemáticas    |P. del Lenguaje|P. del Lenguaje|Matemáticas    |C. Naturales   |
-| 6              | Matemáticas    |P. del Lenguaje|Matemáticas    |Matemáticas    |               |
+| 6              | Matemáticas    |P. del Lenguaje|Matemáticas    |Matemáticas    |Matemáticas    |
 
 
 **Distribución horaria**
