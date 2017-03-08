@@ -13,12 +13,13 @@
 
 
 **Distribución horaria**
+
 - 23 módulos de 40'
-- 8 módulos de Matemática
-- 8 módulos de Prácticas del lenguaje
-- 3 de Ciencias Naturales
-- 3 de Ciencias Sociales
-- 1 de Asamblea de grado
+- 8 módulos de Matemática. 3 módulos de 80' y 2 módulos de 40'.
+- 8 módulos de Prácticas del lenguaje. 3 módulos de 80' y 2 módulos de 40'.
+- 3 de Ciencias Naturales. 1 módulo de 80' y 1 módulo de 40'.
+- 3 de Ciencias Sociales. 1 módulo de 80' y 1 módulo de 40'.
+- 1 de Asamblea de grado 1 módulo de 40'.
 
 
 ## Prácticas del lenguaje
@@ -53,7 +54,7 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
 </tr>
 <tr>
   <th rowspan="3"> Secuencias y Proyectos</th>
-  <td colspan="3">Lectura de novela por capítulos</td>
+  <td colspan="3">Antología de cuentos</td>
     <td></td>
   <td></td>
 </tr>
@@ -116,13 +117,17 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
 
 
 ### Situaciones habituales
+
 #### Portfolio de producciones
-#### Asamblea de grado
+
 #### Biblioteca del aula
 
 ### Secuencias y proyectos
+
 #### Lectura y escritura de relatos tradicionales
+
 #### Leer y escribir para estudiar
+
 #### Leer en medios digitales
 
 ### Situaciones de reflexión sobre el lenguaje
