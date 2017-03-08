@@ -54,9 +54,10 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
 </tr>
 <tr>
   <th rowspan="3"> Secuencias y Proyectos</th>
-  <td colspan="3">Antología de cuentos</td>
+  <td colspan="2">Antología de cuentos</td>
     <td></td>
-  <td></td>
+    <td colspan="2">Lectura de novela por episodios</td>
+
 </tr>
   <td border="0"></td>
   <td colspan="2">Leer y escribir para estudiar</td>
@@ -113,29 +114,25 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
 
 1. Completar una ficha con información de cuentos que hayan leído el año anterior
   ![Ficha del lector](imagenes/ficha_del_lector.png)
-2. Secuencia corta "La bruja de abril" de Ray Bradbury
-
+2. Secuencia "La bruja de abril" de Ray Bradbury en el marco del proyecto [Antología de cuentos](antologiaDeCuentos.md)
 
 ### Situaciones habituales
 
-#### Portfolio de producciones
-
-#### Biblioteca del aula
+- [Portfolio de producciones](portfolio.md)
+- [Biblioteca del aula](bibliotecaDelaula.md)
 
 ### Secuencias y proyectos
 
-#### Lectura y escritura de relatos tradicionales
-
-#### Leer y escribir para estudiar
-
-#### Leer en medios digitales
+- [Antología de cuentos](antologiaDeCuentos.md)
+- [Leer y escribir para estudiar](leerYEscribirParaEstudiar.md)
+- [Leer en medios digitales](LeerEnMediosDigitales.md)
 
 ### Situaciones de reflexión sobre el lenguaje
 
 ### Situaciones para valorar y reflexionar sobre los procesos
 
 ## Matemáticas
-Seleccioné este recorte teniendo en cuenta que “la enseñanza de la multiplicación y de la división demanda varios años de trabajo en la escolaridad para que los alumnos puedan identificar los diferentes problemas que esas herramientas permiten resolver, logren dominar la variedad de relaciones numéricas que es posible establecer y elaboren la diversidad de recursos de cálculo que es pertinente disponera propósito de estas operaciones."[^1]
+Seleccioné este recorte teniendo en cuenta que “la enseñanza de la multiplicación y de la división demanda varios años de trabajo en la escolaridad para que los alumnos puedan identificar los diferentes problemas que esas herramientas permiten resolver, logren dominar la variedad de relaciones numéricas que es posible establecer y elaboren la diversidad de recursos de cálculo que es pertinente disponera propósito de estas operaciones."[1]
 
 ## Ciencias Sociales
 
@@ -143,4 +140,4 @@ Seleccioné este recorte teniendo en cuenta que “la enseñanza de la multiplic
 
 ## Formación ética y ciudadana
 
-[^1] Itzcovich, H.,(2007) La Matemática escolar: las prácticas de enseñanza en el aula. Buenos Aires, Aique.
+[1] Itzcovich, H.,(2007) La Matemática escolar: las prácticas de enseñanza en el aula. Buenos Aires, Aique.
