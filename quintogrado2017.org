@@ -28,7 +28,7 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
 
 #+end_quote
 
-#+begin_src html
+
 <table>
 <tr>
 <th colspan="7" align="center"> Primer Cuatrimestre 2017</td>
@@ -109,7 +109,7 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
   <td colspan="3">Leer en medios digitales</td>
 </tr>
 </table>
-#+end_src
+
 
 *** Situaciones habituales
 
