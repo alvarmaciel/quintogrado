@@ -111,19 +111,34 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
 </table>
 #+end_html 
 
+*** Relevamiento de punto de partida
+
+1. Completar una ficha con información de cuentos que hayan leído el año anterior [[file:imagenes/ficha_del_lector.png]]
+2. Secuencia "La bruja de abril" de Ray Bradbury en el marco del proyecto [[file:antologiaDeCuentos.org][Antología de cuentos]]
 
 *** Situaciones habituales
 
-**** Portfolio de producciones
-**** Asamblea de grado
-**** Biblioteca del aula
+- Portfolios
+- Biblioteca del aula
+
 *** Secuencias y proyectos
-**** Lectura y escritura de relatos tradicionales
-**** Leer y escribir para estudiar
-**** Leer en medios digitales
+
+- [[file:antologiaDeCuentos.org][Antología de cuentos]]
+- Leer y escribir para estudiar
+- Leer en medios digitales
+
 *** Situaciones de reflexión sobre el lenguaje
+
 *** Situaciones para valorar y reflexionar sobre los procesos
+
 ** Matemáticas
+Seleccioné este recorte teniendo en cuenta que “la enseñanza de la multiplicación y de la división demanda varios años de trabajo en la escolaridad para que los alumnos puedan identificar los diferentes problemas que esas herramientas permiten resolver, logren dominar la variedad de relaciones numéricas que es posible establecer y elaboren la diversidad de recursos de cálculo que es pertinente disponera propósito de estas operaciones."[fn:1]
+
 ** Ciencias Sociales
+
 ** Ciencias Naturales
+
 ** Formación ética y ciudadana
+* Notas
+
+[fn:1]  Itzcovich, H.,(2007) La Matemática escolar: las prácticas de enseñanza en el aula. Buenos Aires, Aique. En cuadernillo de trabajo de capacitación 2017.
