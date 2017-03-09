@@ -190,22 +190,31 @@ Seleccioné este recorte teniendo en cuenta que “la enseñanza de la multiplic
 | Vuelta al mundo     | $3 | $6 |   | $12 |   |   |   |   |   |    |
 
 
+
 | Cantidad de vueltas | 1 |  2 |   3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | tazas giratorias    |   | $8 | $12 |   |   |   |   |   |   |    |
+
 
 
 | Cantidad de vueltas | 1 | 2 |   3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | Autos chocadores    |   |   | $15 |   |   |   |   |   |   |    |
 
 
+
 | Cantidad de vueltas |  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | Montaña Rusa        | $6 |   |   |   |   |   |   |   |   |    |
+
+
 
 | Cantidad de vueltas | 1 |   2 | 3 | 4 |   5 | 6 | 7 | 8 | 9 | 10 |
 | Cohete espacial     |   | $14 |   |   | $35 |   |   |   |   |    |
 
+
+
 | Cantidad de vueltas | 1 | 2 | 3 |   4 | 5 | 6 | 7 | 8 | 9 |  10 |
 | Tren Fantasma       |   |   |   | $32 |   |   |   |   |   | $80 |
+
+
 
 | Cantidad de vueltas |  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | Barquitos           | $9 |   |   |   |   |   |   |   |   |    |
