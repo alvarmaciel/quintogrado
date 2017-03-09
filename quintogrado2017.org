@@ -137,7 +137,7 @@ Seleccioné este recorte teniendo en cuenta que “la enseñanza de la multiplic
 
 *** Relevamiento del punto de partida
 
-- los chicos de un grado estaban estudiando sobre el cuerpo humano. Fueron a un quiosco de diarios a comprar revistas para investigar más acerca de este tema. El diariero preparó la siguiente factura. Completá los datos que faltan:
+- Los chicos de un grado estaban estudiando sobre el cuerpo humano. Fueron a un quiosco de diarios a comprar revistas para investigar más acerca de este tema. El diariero preparó la siguiente factura. Completá los datos que faltan:
 
 #+begin_html
 <table>
@@ -173,11 +173,42 @@ Seleccioné este recorte teniendo en cuenta que “la enseñanza de la multiplic
 </tr>
 
 <tr align="right">
-<td colspan="4">TOTAL  .............. </td>
+<td colspan="4">TOTAL............................. </td>
 
 </tr>
 </table>
 #+end_html
+
+- Un librero compra lápices en cajas, siempre del mismo tipo, que luego vende sueltos. En la siguiente tabla, figura la cantidad total de lápices que tiene para vender, según las cajas que compre. Completá la tabla
+
+| Cantidad de cajas de lápices | 1 | 2 | 3 |    | 5 |    | 8 | 9 | 10 | 12 | 15 |
+| Cantidad de lápices total    | 6 |   |   | 24 |   | 42 |   |   |    |    |    |
+
+- Los chicos de cuarto grado van a un parque. Completá las tablas que aparecen debajo calculando cuánto tienen que pagar en cada uno de los juegos de acuerdo con la cantidad de vueltas que quieran dar:
+
+| Cantidad de vueltas |  1 |  2 | 3 |   4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| Vuelta al mundo     | $3 | $6 |   | $12 |   |   |   |   |   |    |
+
+
+| Cantidad de vueltas | 1 |  2 |   3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| tazas giratorias    |   | $8 | $12 |   |   |   |   |   |   |    |
+
+
+| Cantidad de vueltas | 1 | 2 |   3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| Autos chocadores    |   |   | $15 |   |   |   |   |   |   |    |
+
+
+| Cantidad de vueltas |  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| Montaña Rusa        | $6 |   |   |   |   |   |   |   |   |    |
+
+| Cantidad de vueltas | 1 |   2 | 3 | 4 |   5 | 6 | 7 | 8 | 9 | 10 |
+| Cohete espacial     |   | $14 |   |   | $35 |   |   |   |   |    |
+
+| Cantidad de vueltas | 1 | 2 | 3 |   4 | 5 | 6 | 7 | 8 | 9 |  10 |
+| Tren Fantasma       |   |   |   | $32 |   |   |   |   |   | $80 |
+
+| Cantidad de vueltas |  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| Barquitos           | $9 |   |   |   |   |   |   |   |   |    |
 
 
 ** Ciencias Sociales
