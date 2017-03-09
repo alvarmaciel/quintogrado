@@ -141,12 +141,10 @@ Seleccioné este recorte teniendo en cuenta que “la enseñanza de la multiplic
 
 #+begin_html
 <table>
-<th>
-<td colspan="4" valign="center">Quiosco de diarios y revistas "Enrique" </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</th>
+<tr>
+<th colspan="4" valign="center">Quiosco de diarios y revistas "Enrique" </th>
+</tr>
+
 <tr>
 <td align="center">Cantidad </td>
 <td align="center">Detalle </td>
@@ -163,21 +161,20 @@ Seleccioné este recorte teniendo en cuenta que “la enseñanza de la multiplic
 <tr>
 <td align="center" >4 </td>
 <td align="center">Revistas: Salud y Deporte </td>
-<td align="center">8 </td>
+<td align="center">$8 </td>
 <td align="center">.............. </td>
 </tr>
 
 <tr align="center">
 <td>2 </td>
 <td>Tu cuerpo (con video) </td>
-<td>7 </td>
+<td>$7 </td>
 <td>.............. </td>
 </tr>
+
 <tr align="right">
 <td colspan="4">TOTAL  .............. </td>
-<td> </td>
-<td> </td>
-<td> </td>
+
 </tr>
 </table>
 #+end_html
