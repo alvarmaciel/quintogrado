@@ -139,6 +139,7 @@ Seleccioné este recorte teniendo en cuenta que “la enseñanza de la multiplic
 ** Ciencias Naturales
 
 ** Formación ética y ciudadana
-* Notas
+
+* Footnotes
 
 [fn:1]  Itzcovich, H.,(2007) La Matemática escolar: las prácticas de enseñanza en el aula. Buenos Aires, Aique. En cuadernillo de trabajo de capacitación 2017.
