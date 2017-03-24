@@ -423,7 +423,25 @@ Completá la siguiente tabla que relaciona la cantidad de billetes de $ 10 que e
 *** Día de la memoria por la verdad y la justicia
 *** 
 ** Ciencias Naturales
-
+*** Bloques de contenido. Apuntes
+- Ejes de análisis
+  - Unidad y diversidad;
+  - Interacciones, transformaciones y conservación;
+  - El hombre y el mundo natural
+**** Los materiales
+- Los materiales y el calor
+  - Los aprendizajes que se proponen permiten interpretar fenómenos, como el equilibrio térmico y los cambios de estado, desde el concepto de transferencia de calor.
+  - situaciones cotidianas relacionadas con la transferencia del calor y comparar las apreciaciones subjetivas "caliente o frío" a partir de datos obtenidos mediante el tacto, con mediciones efectuadas con termómetros.
+  - rea lizar mediciones de las variaciones de temperatura de cuerpos en contacto que están inicialmente a diferentes temperaturas, y registrar y analizar los datos de dichas variaciones, considerando la noción de equilibrio térmico.
+  - es importante alentarlos a que anticipen posibles resultados de las expe riencias, los pongan a consideración de sus compañeros, intercambien opiniones y argumenten en torno a ellos, antes y después de realizadas.
+- Los materiales y el sonido
+**** Los seres vivos 
+- Diversidad de los seres vivos
+- Nutrición
+**** La Tierra y el Universo
+- La Tierra
+- El cielo visto desde la Tierra
+**** El sistema solar
 ** Formación ética y ciudadana
 *** Asamblea
 
