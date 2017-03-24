@@ -412,12 +412,20 @@ Completá la siguiente tabla que relaciona la cantidad de billetes de $ 10 que e
       - ¿Cuál es el número que, multiplicado por 8, da 32?
         |7|3|4|
    4. Inventen adivinanzas similares y desafíen a sus compañeros.
-
+**** Otros problemas
+1. Un vendedor coloca libros en estantes y quiere que en todos haya la misma cantidad. Tiene 90 libros para 8 estantes. ¿Cuántos podrá poner en cada uno? ¿Le sobran? ¿Cuántos le faltarían para llenar otro estante?
+2. En una panadería se preparan 140 facturas por día. Se hornean en bandejas con 8 facturas cada una. ¿Cuántas bandejas se necesitan en total para preparar todas las facturas?
+3. Para un festival se necesita ubicar 100 sillas en filas de 12. ¿Cuántas filas podríancompletarse? ¿Cuántas sillas es necesario agregar para que haya en todas la misma cantidad?
+4. Para el día del niño se repartieron bolitas entre 4 hermanos. Todos recibieron la misma cantidad. Había 29 bolitas. ¿Cuántas le corresponde a cada uno? ¿Sobraron bolitas?
+5. Luego repartieron 29 chocolates para los mismos 4 chicos. ¿Cuántos chocolates le dieron a cada uno? ¿Sobraron chocolates?
+6. Hoy es martes, ¿qué día de la semana será dentro de 1000 días?
 ** Ciencias Sociales
-
+*** Día de la memoria por la verdad y la justicia
+*** 
 ** Ciencias Naturales
 
 ** Formación ética y ciudadana
+*** Asamblea
 
 * Footnotes
 
