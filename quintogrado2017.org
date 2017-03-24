@@ -1,13 +1,13 @@
 * Planificación anual
 ** Horario
 
-| Horario        | Lunes          | Martes        |Miércoles      |Jueves         | Viernes       |
-| 1              | P. del Lenguaje| Matemáticas   |C. Sociales    |P. del Lenguaje|P. del lenguaje|
-| 2              | Plástica       | Matemáticas   |C. Sociales    |P. del Lenguaje|P. del Lenguaje|
-| 3              | Educ. Fisica   |C. Naturales   |Inglés         | Asamblea      |Educ. Física   |
-| 4              | Inglés         |C. Naturales   |Inglés         | Música        |C. Sociales    |
-| 5              | Matemáticas    |P. del Lenguaje|P. del Lenguaje|Matemáticas    |C. Naturales   |
-| 6              | Matemáticas    |P. del Lenguaje|Matemáticas    |Matemáticas    |Matemáticas    |
+| Horario | Lunes           | Martes          | Miércoles       | Jueves          | Viernes         |
+|       1 | P. del Lenguaje | C. Naturales    | C. Sociales     | P. del Lenguaje | Matemáticas     |
+|       2 | Plástica        | C. Naturales    | C. Sociales     | P. del Lenguaje | Matemáticas     |
+|       3 | Educ. Fisica    | Matemáticas     | Inglés          | Asamblea/       | Educ. Física    |
+|       4 | Inglés          | Inglés          | Inglés          | Música          | C. Sociales     |
+|       5 | Matemáticas     | P. del Lenguaje | P. del Lenguaje | Matemáticas     | C. Naturales    |
+|       6 | Matemáticas     | P. del Lenguaje | Matemáticas     | Matemáticas     | P. Del Lenguaje |
 
 *Distribución Horaria*
 
@@ -271,6 +271,66 @@ Completá la siguiente tabla que relaciona la cantidad de billetes de $ 10 que e
 | Cantidad de billetes de $10 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 15 | 20 |
 | Cantidad de dinero          |   |   |   |   |   |   |   |   |   |    |    |    |    |    |
  
+
+**** Tabla para multiplicar
+1. Completar cuadro
+2. Problemas para revisar lo que hicimos
+   1. Marcá el mayor en cada uno de los siguientes pares de productos (sin hacer la cuenta). En cada caso, anotá qué tuviste en cuenta para decidir.
+      #+begin_verse
+8 x 5             8 x 7
+10 x 6            5 x 10
+3 x 2             4 x 3
+6 x 4             4 x 4
+5 x 5             5 x 2
+10 x 10           9 x 9
+7 x 0             8 x 0
+9 x 1             9 x 6
+5 x 6             6 x 5
+#+end_verse
+   2. Escribí los siguientes productos en orden creciente (sin hacer la cuenta):
+      #+begin_verse
+      6 x 6
+      4 x 5
+      5 x 5
+      9 x 8
+      8 x 8
+      3 x 5
+      6 x 7
+      9 x 10
+      8 x 7
+      #+end_verse
+   3. Completá las siguientes tablas
+      
+      | X | 3 |  4 | 5 | 6 | 7 |
+      |---+---+----+---+---+---|
+      | 3 |   | 12 |   |   |   |
+      | 6 |   | 24 |   |   |   |
+      | 9 |   | 45 |   |   |   |
+
+      
+      | X | 2 |  8 | 5 | 9 | 4 |
+      |---+---+----+---+---+---|
+      | 4 |   | 12 |   |   |   |
+      | 8 |   | 24 |   |   |   |
+      | 9 |   | 45 |   |   |   |
+   1. a partir de los resultados ya ubicados, completá la siguiente tabla de multiplicación:
+
+      |  X | 0 | 1 |  2 |  3 |  4 | 5 |  6 |  7 |  8 | 9 | 10 | 11 |
+      |  5 | 0 | 5 | 10 | 15 |    |   |    |    |    |   |    |    |
+      |  8 |   |   | 16 | 24 | 32 |   |    |    |    |   |    |    |
+      | 10 |   |   |    |    |    |   | 60 | 70 | 80 |   |    |    |
+   2. Un número multiplicado por 7 da 56. ¿Qué número es?
+      Después de buscar el número, identificá entre las siguientes escrituras la (o las) que representan esta adivinanza:
+      
+      7 + .... = 56   .... x 7 = 56   .... - 7 = 56    7 x .... = 56
+   3. Señalá la respuesta correcta:
+      - ¿Cuál es el número que, multiplicado por 5, da 40?
+        |5|8|10|
+      - ¿Cuál es el número que, multiplicado por 7, da 21?
+        |6|3|9|
+      - ¿Cuál es el número que, multiplicado por 8, da 32?
+        |7|3|4|
+   4. Inventen adivinanzas similares y desafíen a sus compañeros.
 
 ** Ciencias Sociales
 

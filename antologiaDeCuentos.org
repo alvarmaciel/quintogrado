@@ -6,7 +6,7 @@ Este es un proyecto para seleccionar, leer, elegir y escribir sobre una amplia v
 Para llevar a cabo este proyecto recurriremos a los libros que integran la biblioteca del aula y solicitar, además, en la biblioteca de la escuela.
 Dedicaremos a este proyecto dos meses aproximadamente. Durante la semana tendremos tres momentos de 80' para llevar acabo situacioenes de lectura y escritura en torno al proyecto
 ** Situaciones de lectura  
-- [ ] Lectura por parte del docente
+- [X] Lectura por parte del docente
 - [ ] Lectura de títulos
 - [ ] Lectura por parte de los alumnos en clase
 - [ ] Lectura por parte de los alumnos en sus casas
@@ -36,3 +36,11 @@ Dedicaremos a este proyecto dos meses aproximadamente. Durante la semana tendrem
   - Ahora vamos a escribir para ejercitarnos un poco y preparar los escritos de la antología. Imagínense que pueden viajar a las cosas como hace Cecy. ¿A dónde irían? 
     1) Hacé un lista de cosas, personas o animales a los que te gustaría viajar.
     2) Siguiendo el plan de escritura, escribí para alguien que nunca pudo estar en otra cosa, cómo es estar dentro de.........
+*** Selección de cuentos de las cajas de aula
+- Esta actividad tiene como objetivo hacer una selección de futuras lecturas
+- Dispondremos de 40 minutos para hojear y leer cuentos a fin de hacer fichados de libros
+  - Título:
+  - Autor:
+  - Ilustrador:
+  - Editorial:
+  - Colección:
