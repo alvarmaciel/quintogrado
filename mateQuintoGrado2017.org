@@ -1,5 +1,6 @@
 * Matemática
 - [[#Relevamiento del punto de partida][Relevamiento del punto de partida]]
+  - [[#Numeración][Numeración]]
 
 ** Relevamiento del punto de partida
 Seleccioné este recorte teniendo en cuenta que “la enseñanza de la multiplicación y de la división demanda varios años de trabajo en la escolaridad para que los alumnos puedan identificar los diferentes problemas que esas herramientas permiten resolver, logren dominar la variedad de relaciones numéricas que es posible establecer y elaboren la diversidad de recursos de cálculo que es pertinente disponera propósito de estas operaciones."[fn:1]
