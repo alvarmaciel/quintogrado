@@ -412,13 +412,43 @@ Completá la siguiente tabla que relaciona la cantidad de billetes de $ 10 que e
       - ¿Cuál es el número que, multiplicado por 8, da 32?
         |7|3|4|
    4. Inventen adivinanzas similares y desafíen a sus compañeros.
-**** Otros problemas
+**** Otros problemas (Cuadernillos de capacitación)
 1. Un vendedor coloca libros en estantes y quiere que en todos haya la misma cantidad. Tiene 90 libros para 8 estantes. ¿Cuántos podrá poner en cada uno? ¿Le sobran? ¿Cuántos le faltarían para llenar otro estante?
 2. En una panadería se preparan 140 facturas por día. Se hornean en bandejas con 8 facturas cada una. ¿Cuántas bandejas se necesitan en total para preparar todas las facturas?
 3. Para un festival se necesita ubicar 100 sillas en filas de 12. ¿Cuántas filas podríancompletarse? ¿Cuántas sillas es necesario agregar para que haya en todas la misma cantidad?
 4. Para el día del niño se repartieron bolitas entre 4 hermanos. Todos recibieron la misma cantidad. Había 29 bolitas. ¿Cuántas le corresponde a cada uno? ¿Sobraron bolitas?
 5. Luego repartieron 29 chocolates para los mismos 4 chicos. ¿Cuántos chocolates le dieron a cada uno? ¿Sobraron chocolates?
 6. Hoy es martes, ¿qué día de la semana será dentro de 1000 días?
+**** Numeración
+1. Contar palabras. Para contar números usamos palabras: Los nombres de los números. Esas palabras ¿son tantas como los números?
+   1. ¿Cuántas palabras diferentes se necesitan para contar de 1 a 1.000.000? *Rodea* la respuesta que te parezca
+      menos de 100        Entre 100 y 1.000          Un millón.
+   2. *Comparen* y *decidan* cuál es la respuesta que consideran más acertada.
+   3. *Averigüen* Cuántas palabras diferentes se necesitan para decir los números del 1 hasta el millón y luego *completen*
+      Para decir los número hasta un millón hacen falta ............ palabras.
+   4. ¿la respuesta de tu equipo fue acertada?
+2. Ahora con cifras
+   1. ¿Cuántas cifras diferentes se necesitan para escribir todos los números desde el uno hasta el millón?
+      1. *Comparen* sus respuesta y *comenten* las diferentes maneras que utilizaron para resolverlo, para estar seguros que no se olvidan de ninguna cifra.
+      2. Se necesitan la misma cantidad de cifras para escribir los números hasta un millón que de palabras diferentes para decir esos números?........................
+      3. Si un número se escribe con más cifras que otro ¿Se necesitan más palabras diferentes para decirlo? Explicá por qué sí y por qué no. ...............
+   2. ¿Cuál de las siguientes es la escritura correcta del número "ciento tres mil quince"? *Rodeala*
+      1. 103.150
+      2. 130.015
+      3. 103.015
+      4. 1.003.015
+   3. *Elegí* un número de 5 cifras cifras que tenga dos ceros. *Anotalo* y *escribí* cómo se lee. ................
+      1. Anoten los números que anotaron sus compañeros de grupo *Compárenlos* y *rodeen* con distintos colores el mayor y el menor de todos ellos.
+   4. Escribí con cifras los siguientes números
+      1. Tres mil ochocientos veinte:.........
+      2. Quinientos mil veinte:........
+      3. Ciento cincuenta mil doscientos ocho:.........
+   5. Los siguientes números tienen 6 cifras, pero algunas no están escritas. ¿Es posible que alguno sea "ciento cincuenta mil cuatrocientos"? Si es así, *completá* con las cifras que faltan.
+      1. 15... ...40
+      2. 152 ... ...4
+      3. 15... 4 ... ...
+      4. 150 ... ... 4
+      5. ¿Alguno de estos números puede ser ciento cincuenta mil doscientos cuatro? Si la respuesta es "sí", *rodealo*.
 ** Ciencias Sociales
 *** Día de la memoria por la verdad y la justicia
 *** 
