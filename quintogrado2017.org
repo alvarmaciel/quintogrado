@@ -267,54 +267,63 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
   <td ><p>Diciembre</p></td></tr>
 <tr >
  <th rowspan="2"><p>Los materiales</p></td>
- 
+ <th > </th>
  <td colspan="2"><p>Los materiales y el calor</p></td>
+ <td > </td>
+ <td > </td>
+ <td > </td>
+ <td > </td>
+ <td > </td>
+ <td > </td>
+ <td > </td>
 </tr>
 <tr >
- <td colspan="2" style="text-align:left;width:22.58mm; " class="ce1"><p>Los materiales y el sonido</p></td>
- <td style="text-align:left;width:22.58mm; " class="ce2"> </td>
- <td style="text-align:left;width:22.58mm; " class="ce2"> </td>
- <td style="text-align:left;width:22.58mm; " class="ce2"> </td>
- <td style="text-align:left;width:22.58mm; " class="ce2"> </td>
- <td style="text-align:left;width:22.58mm; " class="ce2"> </td>
- <td style="text-align:left;width:22.58mm; " class="ce2"> </td>
+ <td > </td>
+ <td > </td>
+ <td ><p>Los materiales y el sonido</p></td>
+ <td > </td>
+ <td > </td>
+ <td > </td>
+ <td > </td>
+ <td > </td>
+ <td > </td>
 </tr>
-<tr class="ro1">
- <td style="text-align:left;width:26.58mm; " class="Default"><p>Los seres vivos</p></td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td colspan="2" style="text-align:left;width:22.58mm; " class="ce3"><p>Diversidad de los seres vivos/nutrición</p></td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
+<tr>
+ <th  ><p>Los seres vivos</p></th>
+ <td  > </td>
+ <td  > </td>
+ <td  > </td>
+ <td colspan="2"><p>Diversidad de los seres vivos/nutrición</p></td>
+ <td  > </td>
+ <td  > </td>
+ <td  > </td>
+ <td  > </td>
+ <td  > </td>
 </tr>
-<tr class="ro1">
- <td style="text-align:left;width:26.58mm; " class="Default"><p>La tierra y el universo</p></td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"><p>La tierra</p></td>
- <td style="text-align:left;width:22.58mm; " class="Default"><p>El cielo visto desde la tierra</p></td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
+<tr>
+ <th  ><p>La tierra y el universo</p></th>
+ <td  > </td>
+ <td  > </td>
+ <td  > </td>
+ <td  > </td>
+ <td  > </td>
+ <td  ><p>La tierra</p></td>
+ <td  ><p>El cielo visto desde la tierra</p></td>
+ <td  > </td>
+ <td  > </td>
+ <td  > </td>
 </tr>
-<tr class="ro1">
- <td style="text-align:left;width:26.58mm; " class="Default"><p>El sistema solar</p></td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td style="text-align:left;width:22.58mm; " class="Default"> </td>
- <td colspan="2" style="text-align:left;width:22.58mm; " class="ce3"><p>El Sistema Solar</p></td>
+<tr >
+ <th  ><p>El sistema solar</p></th>
+ <td  > </td>
+ <td  > </td>
+ <td  > </td>
+ <td  > </td>
+ <td  > </td>
+ <td  > </td>
+ <td  > </td>
+ <td  > </td>
+ <td colspan="2"><p>El Sistema Solar</p></td>
 </tr>
 </table>
 #+end_html
