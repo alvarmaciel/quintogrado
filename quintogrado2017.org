@@ -256,10 +256,10 @@ La conformación histórica de la ciudad de Buenos Aires.
 Eje:¿Cuál es la prestación de servicios que se da en las ciudades, grandes, medianas y pequeñas? ¿Cómo es el acceso a dichos servicios en cada una? ¿Cuáles son sus limitaciones?</td>
 <td></td> 
  </tr>
- <tr></tr>
-<tr></tr>
+ 
 </table>
 #+end_html
+acá pasa algo
 ** Ciencias Naturales
 *** Planificación anual
 #+begin_html
