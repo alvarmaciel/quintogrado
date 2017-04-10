@@ -209,7 +209,7 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
 - [[file:mateQuintoGrado2017.org][Planificación descriptiva del área de matemática]]
 ** Ciencias Sociales
 *** Planificación anual
-#+begin_html
+#+BEGIN_HTML
 <table>
   <tr>
     <th></th>
@@ -258,7 +258,8 @@ Eje:¿Cuál es la prestación de servicios que se da en las ciudades, grandes, m
  </tr>
  
 </table>
-#+end_html
+#+END_HTML
+
 *** acá pasa algo
 ** Ciencias Naturales
 *** Planificación anual
