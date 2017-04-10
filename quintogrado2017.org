@@ -259,7 +259,7 @@ Eje:¿Cuál es la prestación de servicios que se da en las ciudades, grandes, m
  
 </table>
 #+end_html
-acá pasa algo
+*** acá pasa algo
 ** Ciencias Naturales
 *** Planificación anual
 #+begin_html
