@@ -239,7 +239,7 @@ Distintos grupos sociales se apropian, valoran y utilizan los recursos naturales
     <td>Las ciudades son centros de atracción y concentración de personas, inversiones y productos, y a la vez son centros de difusión de informaciones, decisiones e innovaciones más allá de sus propios límites.
 La cantidad de población, las actividades productivas predominantes y la complejidad de los servicios e infraestructura son criterios que permiten diferenciar tipos de ciudades.
 </td>
-    
+ <td></td>   
   </tr>
   <tr>
     <th>Tema/Recorte</th>
@@ -254,7 +254,8 @@ Eje:¿De que manera la explotación de determinados recursos incide en el asenta
     <td>(escala Argentina) Jerarquía urbana: tipos de ciudades (por cantidad de población, actividades productivas predominantes y complejidad de servicios e infraestructura), grandes, medianas, pequeñas.
 La conformación histórica de la ciudad de Buenos Aires.
 Eje:¿Cuál es la prestación de servicios que se da en las ciudades, grandes, medianas y pequeñas? ¿Cómo es el acceso a dichos servicios en cada una? ¿Cuáles son sus limitaciones?</td>
-  </tr>
+<td></td> 
+ </tr>
  
 </table>
 #+end_html
