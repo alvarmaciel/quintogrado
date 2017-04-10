@@ -400,7 +400,6 @@
         Propiedad de la suma de los ángulos interiores de los triángulos.<br/>
         Construciones de triángulos con regla, compás y transportador, a partir de diferentes informaciones.
     </td>
-
     <td>   Trazados de rectas perpendiculares con regla y escuadra.<br/>
         Trazados de rectas paralelas con escuadra y regla, con regla y transportador.<br/>
        Construcción de cuadriláteros usando regla, compás y transportador.<br/>
