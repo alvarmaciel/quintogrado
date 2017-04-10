@@ -143,6 +143,9 @@
 
 <a id="org40e8c94"></a>
 
+
+
+
 ## Prácticas del lenguaje
 
 > Para formar practicantes de la lectura y la escritura, es necesario hacer de la escuela una comunidad de lectores y escritores. Una comunidad de lectores que acuden a los textos buscando respuesta para los problemas que necesitan resolver, tratando de encontrar información para comprender mejor algún aspecto del mundo que es objeto de sus preocupaciones, buscando argumentos para defender una posición con la que están comprometidos o para rebatir otra que consideran peligrosa o injusta, deseando conocer otros modos de vida, identificarse con otros autores y personajes o diferenciarse de ellos, correr otras aventuras, enterarse de otras historias, descubrir otras formas de utilizar el lenguaje para crear nuevos sentidos&#x2026;
