@@ -254,7 +254,8 @@ Eje:¿De que manera la explotación de determinados recursos incide en el asenta
     <td>(escala Argentina) Jerarquía urbana: tipos de ciudades (por cantidad de población, actividades productivas predominantes y complejidad de servicios e infraestructura), grandes, medianas, pequeñas.
 La conformación histórica de la ciudad de Buenos Aires.
 Eje:¿Cuál es la prestación de servicios que se da en las ciudades, grandes, medianas y pequeñas? ¿Cómo es el acceso a dichos servicios en cada una? ¿Cuáles son sus limitaciones?</td>
-<td></td> 
+<td> </td>
+ <td> </td>
  </tr>
  
 </table>
