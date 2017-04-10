@@ -1,0 +1,88 @@
+## Matemáticas
+
+
+<a id="org72bd83e"></a>
+
+### Tabla de contenidos anuales
+
+<div class="html">
+<table>
+  <tr>
+    <th> </th>
+    <th>Primer Bimestre </th>
+    <th>Segundo Bimestre </th>
+    <th>Tercer Bimestre </th>
+    <th>Cuarto Bimestre </th>
+  </tr>
+  <tr>
+    <th>Números y operaciones</th>
+    <td>   Lectura, escritura y orden de números hasta 100.00.<br/>
+           Resolución de problemas para profundizar el análisis del valor posicional.<br/>
+           Descomposiciones aditivas y multiplicativas.<br/>
+           Comparación con otros sistemas no posicionales.<br/>
+           Cálculos mentales exactos y estimativos con las cuatro operaciones.<br/>
+           Resoluciones de problemas de varios pasos y diversos significados y diversos significados de: <strong>suma | resta | multiplicación | división</strong><br/>
+           Resolución de problemas que impliquen el análisis del resto.
+    </td>
+    <td>   Cálculos mentales de mutiplicación y división. Propiedades delas operaciones.<br/>
+        Resolución de problemas que impliquen el uso de múltiplos y divisores.<br/>
+        Uso de las relaciones del dividendo, divisor, cociente y resto para resolver problemas.
+        Resolución de problemas que impliquen el uso del múltiplos y divisores.<br/>
+        Definición de múltiplo y divisor de un número. De multiplo común y de divisor común.<br/>
+        Resolución de problemas que apelen a diferentes funcionamientos de las fracciones: <strong>repartos, medidas y particiones.</strong><br/>
+        Relaciones entre medios cuartos y octavos; tercios, sextos y doceavos; quintos y décimos. </td>
+    <td>   Repartos equivalentes y división. Las fracciones para expresar medidas.<br/>
+        Fracción de número natural.<br/>
+        Comparaciones de fracciones. Cálculo mental de sumas y restas entre fracciones.<br/>
+        Expresiones decimales en el <strong>contexto del dinero y la medida</strong>. Equivalencia entre fracciones y decimales. Orden de expresiones fraccionarias y decimales.<br/>
+        Recta Numérica.<br/>
+        Resolución de problemas que involucren relaciones de proporcionalidad directa.<br/>
+        Constante proporcional.<br/>
+        Propiedades de las relaciones de proporcionalidad.<br/>
+        Elaboración de tablas para organizar datos y favorecer el análisis de los mismos.<br/>
+        Resolución de problemas que requieran de la multiplicación o de la división de una fracción o un decimal por un número natural <strong>en contexto de proporcionalidad</strong>.
+    </td>
+    <td>   Equivalencias entre expresiones fraccionarias y decimales.<br/>
+        Utilización de la organización decimal del sistema métrico como contexto para establecer relacones entre fracciones y decimales.<br/>
+        Multiplicación y división de un número decimal por la unidad seguida de ceros.<br/>
+        Cálculo con expresiones decimales.
+    </td>
+  </tr>
+  <tr>
+    <th>Geometría</th>
+    <td> </td>
+    <td>   Reproducción de figuras con lados rectos y arcos de circunferencia utilizando escuadra, regla y compás.<br/>
+            Puntos que cumplen ciertas condiciones. Propiedad de los lados de los triángulos.<br/>
+        Propiedad de la suma de los ángulos interiores de los triángulos.<br/>
+        Construciones de triángulos con regla, compás y transportador, a partir de diferentes informaciones.
+    </td>
+    <td>   Trazados de rectas perpendiculares con regla y escuadra.<br/>
+        Trazados de rectas paralelas con escuadra y regla, con regla y transportador.<br/>
+       Construcción de cuadriláteros usando regla, compás y transportador.<br/>
+        Clasificación de cuadriláteros según diferentes criterios: <strong>congruencia de lados, tipo de ángulos.</strong><br/>
+        Suma de los ángulos interiores de los cuadriláteros.
+    </td>
+    <td>   Características de cuerpos geométricos: <strong> cantidad y formas de caras, aristas y vértices</strong><br/>
+        Características de cuerpos y pirámides. Desarrollo plano de los cuerpos geométricos.
+    </td>
+  </tr>
+  <tr>
+    <th>Medida</th>
+    <td>Resolución de problemas que impliquen la determinación de duraciones(horas, minutos, segundos).
+    </td>
+    <td>Uso del transportador para medir y comparar ángulos. Uso del grado como unidad de medida de los ángulos
+    </td>
+    <td>   Uso de las fracciones para expresar la medida de una superficie considerando otra como unidad.<br/>
+        Situaciones de exploración de la independencia de variaciones del área y del perímetro de una figura.
+    </td>
+    <td>   Equivalencia entre unidades de medida de longitud, peso y capacidad.<br/>
+        Uso de expresiones decimáles y fraccionarias para escribir medidas.<br/>
+        Estimacioón de medidas.
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+<a id="org4843111"></a>
