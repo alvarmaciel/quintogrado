@@ -225,7 +225,7 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
     <th>UNIONES Y DESUNIONES 2 (1820 - 1860)</th>
     <th>RECURSOS NATURALES</th>
     <th>CIUDADES</th>
-    <th colspan="4">RECAPITULACIONES Y CIERRES</th>
+    <th colspan="2">RECAPITULACIONES Y CIERRES</th>
   </tr>
   <tr>
     <th>Ideas Básicas</th>
@@ -233,32 +233,29 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
 La ruptura del vínculo colonial en Hispanoamérica impulsó la construcción de nuevas sociedades, nuevos territorios y gobiernos, y la transformación de la economía.
 El dominio de España por parte de Napoleón y las reacciones en las colonias hispanoamericanas desarticularon el Virreinato del Río de la Plata y afectaron la vida de hombres, mujeres y niños de distintos sectores sociales.
 </td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>En sus intentos por construir un estado centralizado, diferentes grupos sociales y regionales se enfrentaron, debatieron alternativas y lograron acuerdos durante el siglo XIX.</td>
+    <td>La valoración y el aprovechamiento de los recursos naturales incide en el asentamiento de la población y en las actividades económicas primarias.
+Distintos grupos sociales se apropian, valoran y utilizan los recursos naturales de modo diferente.</td>
+    <td>Las ciudades son centros de atracción y concentración de personas, inversiones y productos, y a la vez son centros de difusión de informaciones, decisiones e innovaciones más allá de sus propios límites.
+La cantidad de población, las actividades productivas predominantes y la complejidad de los servicios e infraestructura son criterios que permiten diferenciar tipos de ciudades.
+</td>
     
   </tr>
   <tr>
     <th>Tema/Recorte</th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Impacto de las transformaciones producidas por las Revoluciones Industrial y Francesa en América.
+Eje:¿Cómo cambió la vida de los esclavos en la Era de la Revolución? Desde la revolución Francesa a la Revolución de Mayo</td>
+    <td>Los caudillos en el marco de las economías provinciales.
+Eje: ¿Quiénes eran los caudillos? ¿Por qué se enfrentan las provincias? ¿Cuales son las causas de las luchas entre unitarios y federales?</td>
+    <td>(Escala Argentina) Valoración de elementos naturales <br/>
+1. Recursos mineros (oro, litio), forestales (avance de la frontera agropecuaria bosque chaqueños). suelo (oasis mendocinos), faunísticos (guanacos)<br/>
+2. El mismo recurso, explotaciones diferentes: Suelo (Actores sociales, Benetton y crianceros). Agua (regadío y electricidad)<br/>
+Eje:¿De que manera la explotación de determinados recursos incide en el asentamiento y en la organización productiva de las sociedades?</td>
+    <td>(escala Argentina) Jerarquía urbana: tipos de ciudades (por cantidad de población, actividades productivas predominantes y complejidad de servicios e infraestructura), grandes, medianas, pequeñas.
+La conformación histórica de la ciudad de Buenos Aires.
+Eje:¿Cuál es la prestación de servicios que se da en las ciudades, grandes, medianas y pequeñas? ¿Cómo es el acceso a dichos servicios en cada una? ¿Cuáles son sus limitaciones?</td>
   </tr>
-  <tr>
-    <th>Recursos</th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>Salidas</th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+ 
 </table>
 #+end_html
 ** Ciencias Naturales
