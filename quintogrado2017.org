@@ -208,8 +208,68 @@ Hacer de la escuela un ámbito donde lectura y escritura sean prácticas vivas y
 *** Secuencias
 - [[file:mateQuintoGrado2017.org][Planificación descriptiva del área de matemática]]
 ** Ciencias Sociales
-*** Día de la memoria por la verdad y la justicia
-*** 
+*** Planificación anual
+#+begin_html
+<table>
+  <tr>
+    <th></th>
+    <th>Marzo - Abril - 1/2 Mayo (2 meses)</th>
+    <th>1/2 Mayo - Junio - Julio (2 meses)</th>
+    <th>Agosto - Septiembre (2 meses)</th>
+    <th>Octubre - Noviembre (2 meses)</th>
+    <th>Diciembre</th>
+  </tr
+  <tr>
+    <th>Bloques</th>
+    <th>REVOLUCIONES Y UNIONES Y DESUNIONES 1 (Fines del S XVIII hasta 1820)</th>
+    <th>UNIONES Y DESUNIONES 2 (1820 - 1860)</th>
+    <th>RECURSOS NATURALES</th>
+    <th>CIUDADES</th>
+    <th colspan="4">RECAPITULACIONES Y CIERRES</th>
+  </tr>
+  <tr>
+    <th>Ideas Básicas</th>
+    <td>Los cambios producidos en Inglaterra y Francia en<br/>
+las últimas décadas del siglo XVIII modificaron la vida<br/>
+de las personas que habitaban esos países y otras<br/>
+áreas lejanas.<br/>
+La ruptura del vínculo colonial en Hispanoamérica<br/>
+impulsó la construcción de nuevas sociedades, nuevos<br/>
+territorios y gobiernos, y la transformación de la<br/>
+economía.<br/>
+El dominio de España por parte de Napoleón y las<br/>
+reacciones en las colonias hispanoamericanas desarticularon<br/> 
+el Virreinato del Río de la Plata y afectaron<br/>
+la vida de hombres, mujeres y niños de distintos sectores sociales.
+</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    
+  </tr>
+  <tr>
+    <th>Tema/Recorte</th>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Recursos</th>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Salidas</th>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+#+end_html
 ** Ciencias Naturales
 *** Planificación anual
 #+begin_html
