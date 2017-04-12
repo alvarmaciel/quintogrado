@@ -106,7 +106,7 @@
 <td class="org-left">Inglés</td>
 <td class="org-left">Inglés</td>
 <td class="org-left">Música</td>
-<td class="org-left">C. Sociales</td>
+<td class="org-left">Tecnología</td>
 </tr>
 
 
