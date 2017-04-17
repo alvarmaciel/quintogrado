@@ -187,7 +187,7 @@ Problemas extraidos de:
 
 - Ubiquen, aproximadamente, cada cantidad de espectadores en la siguiente recta numérica.
 
-![]({{site.url}}{{baseurl}}/img/tareas/RectaNumericaDiezMil.png)
+![]({{site.url}}{{site.baseurl}}/img/tareas/RectaNumericaDiezMil.png)
 
 ## Numeración 3
 Extraido de Estudiar Matemática 5
