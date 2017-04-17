@@ -3,11 +3,46 @@
   <channel>
     <title>Planificaciones para armar</title>
     <description>Un template integrado para docentes</description>
-    <link>http://localhost:4000/pruebapp/</link>
-    <atom:link href="http://localhost:4000/pruebapp/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 17 Apr 2017 15:06:19 -0300</pubDate>
-    <lastBuildDate>Mon, 17 Apr 2017 15:06:19 -0300</lastBuildDate>
+    <link>http://localhost:4000/quintogrado/</link>
+    <atom:link href="http://localhost:4000/quintogrado/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 17 Apr 2017 18:25:33 -0300</pubDate>
+    <lastBuildDate>Mon, 17 Apr 2017 18:25:33 -0300</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>prueba2</title>
+        <description>A New Post
+
+Enter text in Markdown. Use the toolbar above, or click the ? button for formatting help.
+asAS
+</description>
+        <pubDate>Mon, 17 Apr 2017 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/quintogrado/proyectos/2017/04/17/prueba2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/quintogrado/proyectos/2017/04/17/prueba2.html</guid>
+        
+        <category>prueba</category>
+        
+        
+        <category>proyectos</category>
+        
+      </item>
+    
+      <item>
+        <title>prueba</title>
+        <description>A New Postit
+
+Enter text in Markdown. Use the toolbar above, or click the ? button for formatting help.
+</description>
+        <pubDate>Mon, 17 Apr 2017 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/quintogrado/proyectos/2017/04/17/prueba.html</link>
+        <guid isPermaLink="true">http://localhost:4000/quintogrado/proyectos/2017/04/17/prueba.html</guid>
+        
+        <category>pruebas</category>
+        
+        
+        <category>proyectos</category>
+        
+      </item>
     
       <item>
         <title>Cronogramas</title>
@@ -149,8 +184,8 @@ Semana 17 al 21 de Abril
 
 </description>
         <pubDate>Mon, 17 Apr 2017 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/pruebapp/cronogramas/2017/04/17/cronogramas.html</link>
-        <guid isPermaLink="true">http://localhost:4000/pruebapp/cronogramas/2017/04/17/cronogramas.html</guid>
+        <link>http://localhost:4000/quintogrado/cronogramas/2017/04/17/cronogramas.html</link>
+        <guid isPermaLink="true">http://localhost:4000/quintogrado/cronogramas/2017/04/17/cronogramas.html</guid>
         
         <category>cronogramas</category>
         
@@ -531,24 +566,10 @@ En la siguiente planilla se marca con una cruz cada vez que se venden 10.000 dis
       X
       X
       X
-      X
-    
-    
-      100.00
-      X
-      X
-      X
-      X
-      X
-      X
-      X
-      X
-      X
-      X
        
     
     
-      200.00
+      100.000
       X
       X
       X
@@ -562,7 +583,7 @@ En la siguiente planilla se marca con una cruz cada vez que se venden 10.000 dis
        
     
     
-      300.00
+      200.000
       X
       X
       X
@@ -576,7 +597,21 @@ En la siguiente planilla se marca con una cruz cada vez que se venden 10.000 dis
        
     
     
-      400.00
+      300.000
+      X
+      X
+      X
+      X
+      X
+      X
+      X
+      X
+      X
+      X
+       
+    
+    
+      400.000
       X
       X
       X
@@ -590,7 +625,7 @@ En la siguiente planilla se marca con una cruz cada vez que se venden 10.000 dis
        
     
     
-      500.00
+      500.000
        
        
        
@@ -604,7 +639,7 @@ En la siguiente planilla se marca con una cruz cada vez que se venden 10.000 dis
        
     
     
-      600.00
+      600.000
        
        
        
@@ -618,7 +653,7 @@ En la siguiente planilla se marca con una cruz cada vez que se venden 10.000 dis
        
     
     
-      700.00
+      700.000
        
        
        
@@ -632,7 +667,7 @@ En la siguiente planilla se marca con una cruz cada vez que se venden 10.000 dis
        
     
     
-      800.00
+      800.000
        
        
        
@@ -646,7 +681,7 @@ En la siguiente planilla se marca con una cruz cada vez que se venden 10.000 dis
        
     
     
-      900.00
+      900.000
        
        
        
@@ -692,8 +727,8 @@ Se abre la discusión
 Print
 </description>
         <pubDate>Sun, 16 Apr 2017 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/pruebapp/proyectos/2017/04/16/secuencia-numeracion.html</link>
-        <guid isPermaLink="true">http://localhost:4000/pruebapp/proyectos/2017/04/16/secuencia-numeracion.html</guid>
+        <link>http://localhost:4000/quintogrado/proyectos/2017/04/16/secuencia-numeracion.html</link>
+        <guid isPermaLink="true">http://localhost:4000/quintogrado/proyectos/2017/04/16/secuencia-numeracion.html</guid>
         
         <category>Matemáticas</category>
         
@@ -814,8 +849,8 @@ El misterio del barrio. Liliana Cinetto
 Los Héctores. Ricardo Mariño
 </description>
         <pubDate>Thu, 13 Apr 2017 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/pruebapp/proyectos/2017/04/13/antologia-de-cuentos.html</link>
-        <guid isPermaLink="true">http://localhost:4000/pruebapp/proyectos/2017/04/13/antologia-de-cuentos.html</guid>
+        <link>http://localhost:4000/quintogrado/proyectos/2017/04/13/antologia-de-cuentos.html</link>
+        <guid isPermaLink="true">http://localhost:4000/quintogrado/proyectos/2017/04/13/antologia-de-cuentos.html</guid>
         
         <category>prácticas del lenguaje</category>
         
@@ -1326,8 +1361,8 @@ Eje:¿Cuál es la prestación de servicios que se da en las ciudades, grandes, m
 
 </description>
         <pubDate>Tue, 11 Apr 2017 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/pruebapp/planianual/2017/04/11/planificacion-anual.html</link>
-        <guid isPermaLink="true">http://localhost:4000/pruebapp/planianual/2017/04/11/planificacion-anual.html</guid>
+        <link>http://localhost:4000/quintogrado/planianual/2017/04/11/planificacion-anual.html</link>
+        <guid isPermaLink="true">http://localhost:4000/quintogrado/planianual/2017/04/11/planificacion-anual.html</guid>
         
         <category>Planificacion anual</category>
         
