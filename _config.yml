@@ -120,8 +120,8 @@ prose:
       - name: "tags"
         field:
           element: "text"
-          label: "Tags (seperate with whitespace)"
-          value: ""
+          label: "Tags (separadas por comas)"
+          value: []
       - name: "category"
         field:
           element: "text"
