@@ -3,7 +3,7 @@ slideinit: "<section markdown=\"1\" data-background=\"https://alvarmaciel.github
 vertical: "</section><section markdown=\"1\">"
 horizontal: "</section></section><section markdown=\"1\" data-background=\"https://alvarmaciel.github.io/quintogrado/img/slidebackground.png\"><section markdown=\"1\">"
 subtitle: Proyecto de simulación
-layout: post
+layout: slide
 author: Alvar Maciel
 tags: "Ciencias Naturales, calor, materiales"
 category: proyectos
