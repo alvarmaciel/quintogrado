@@ -14,6 +14,7 @@ published: true
 title: Los materiales y el calor
 ---
 
+{{ page.horizontal }}
 **Índice**
 * TOC
 {:toc}
@@ -21,6 +22,7 @@ title: Los materiales y el calor
 > El abordaje de estos contenidos está centrado en la descripción y la comparación de una amplia variedad de materiales y de sus interacciones.
 > En cuarto y quinto grado, la enseñanza de las interacciones entre los materiales y la electricidad y el magnetismo, como también entre los materiales y el calor, se focaliza en el análisis de los cambios que se producen en los materiales por efecto de estas interacciones y no en la conceptualización de esos fenómenos.
 
+{{ page.vertical }}
 # Ideas Básicas y alcance de los contenidos
 
 -   Dos o más cuerpos pueden tener la misma temperatura, aunque no lo parezca. Esto sólo puede establecerse mediante el uso del termómetro.
@@ -35,6 +37,8 @@ title: Los materiales y el calor
 -   Los materiales experimentan distintos cambios por efecto del calor. En los cambios de estado, el material sigue siendo el mismo.
     -   Caracterización fenomenológica de los estados de agregación: sólido, líquido y gaseoso.
 
+{{ page.horizontal }}
+
 
 # Proyecto: Construyendo la simulación de un termómetro
 
@@ -45,11 +49,15 @@ title: Los materiales y el calor
     -   Temperatura
     -   Termómetros
 -   Relacionar el termómetro con la medición de la temperatura de distintos cuerpos.
+{{ page.horizontal }}
+
 
 ## Actividades
 
 En este proyecto nos proponemos que los estudiantes se acerquen a textos informativos para elucidar preguntas acerca del calor, la temperatura y el funcionamiento de los termómetros a fin de construir un simulador de termómetro en algún lenguaje de programación.
 Para iniciar la secuencia de actividades, el docente propondrá a los alumnos una breve conversación grupal en la cual se haga mención a diferentes situaciones en las que se pone de manifiesto el calor y la transferencia de calor en los cuerpos. Para ello preguntará ¿Cómo se calienta algo? ¿Qué pasa con mis manos si las froto rápidamente? ¿Cómo hago para saber si algo está caliente?.
+
+{{ page.horizontal }}
 
 
 ### Temperatura y modelo de partículas
@@ -82,6 +90,8 @@ Para iniciar la secuencia de actividades, el docente propondrá a los alumnos un
 
 
 <a id="org7c24850"></a>
+{{ page.vertical }}
+
 
 ### Análisis del experimento a la luz del texto
 
