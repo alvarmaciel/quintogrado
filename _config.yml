@@ -4,14 +4,14 @@ description: "Un template integrado para docentes"
 url: "https://alvarmaciel.github.io" #"http://localhost:4000"
 
 # Secondary Parameters
-baseurl: "/pruebapp" #""
+baseurl: "/quintogrado" #""
 header-img: img/trenes.jpg
 headercolor: "#FFFFFF"
 logo: #/img/espiral.png #/pruebapp/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  alvarmaciel
-project_repository: pruebapp
+project_repository: quintogrado
 disqus_shortname: alvarmaciel
 g-analytics: UA-75881392-1
 altmetric: true
@@ -65,7 +65,7 @@ defaults:
 # Prose Settings
 prose:
   ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','LICENSES.md','README.md','colorscheme.scss','members.html','mentions.html','index.html']
-  siteurl: 'https://alvarmaciel.github.io/pruebapp'
+  siteurl: 'https://alvarmaciel.github.io/quintogrado'
   ispp: true
   media: 'img'
   metadata:
@@ -129,7 +129,7 @@ prose:
       - name: "horizontal"
         field:
           element: "hidden"
-          value: </section></section><section markdown="1" data-background="https://alvarmaciel.github.io/pruebapp/img/slidebackground.png"><section markdown="1">
+          value: </section></section><section markdown="1" data-background="https://alvarmaciel.github.io/quintogrado/img/slidebackground.png"><section markdown="1">
       - name: "vertical"
         field:
           element: "hidden"
@@ -137,7 +137,7 @@ prose:
       - name: "slideinit"
         field:
           element: "hidden"
-          value: <section markdown="1" data-background="https://alvarmaciel.github.io/pruebapp/img/slidebackground.png"><section markdown="1">
+          value: <section markdown="1" data-background="https://alvarmaciel.github.io/quintogrado/img/slidebackground.png"><section markdown="1">
       - name: "theme"
         field:
           element: "select"
