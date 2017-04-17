@@ -16,7 +16,9 @@ title: Los materiales y el calor
 
 {{ page.vertical }}
 
-
+**Índice**
+* TOC
+{:toc}
 
 > El abordaje de estos contenidos está centrado en la descripción y la comparación de una amplia variedad de materiales y de sus interacciones.
 > En cuarto y quinto grado, la enseñanza de las interacciones entre los materiales y la electricidad y el magnetismo, como también entre los materiales y el calor, se focaliza en el análisis de los cambios que se producen en los materiales por efecto de estas interacciones y no en la conceptualización de esos fenómenos.
