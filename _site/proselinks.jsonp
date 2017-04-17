@@ -1,0 +1,23 @@
+callback([
+
+  {
+    "text": "Planificación Anual",
+    "href": "http://localhost:4000/pruebapp/planianual/2017/04/11/planificacion-anual.html"
+  } ,
+
+  {
+    "text": "Antología de cuentos",
+    "href": "http://localhost:4000/pruebapp/proyectos/2017/04/13/antologia-de-cuentos.html"
+  } ,
+
+  {
+    "text": "Secuencia de numeración",
+    "href": "http://localhost:4000/pruebapp/proyectos/2017/04/16/secuencia-numeracion.html"
+  } ,
+
+  {
+    "text": "Cronogramas",
+    "href": "http://localhost:4000/pruebapp/cronogramas/2017/04/17/cronogramas.html"
+  } 
+
+])
