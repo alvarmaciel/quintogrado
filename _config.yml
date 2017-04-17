@@ -90,7 +90,7 @@ prose:
         field:
           element: "text"
           label: "Sub-Title (Short Description)"
-          value: "post"
+          value: ""
       - name: "layout"
         field:
           element: "select"
@@ -98,6 +98,7 @@ prose:
           placeholder: "Layouts"
           options:
             - name: "Post"
+              value: "post"
             - name: "Slide"
               value: "slide"
             - name: "Projector"
