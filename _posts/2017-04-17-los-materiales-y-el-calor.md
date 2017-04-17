@@ -10,7 +10,7 @@ category: proyectos
 theme: beige
 trans: cube
 visualworkflow: false
-published: false
+published: true
 title: Los materiales y el calor
 ---
 
