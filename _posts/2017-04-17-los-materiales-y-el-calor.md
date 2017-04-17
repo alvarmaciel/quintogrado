@@ -14,8 +14,6 @@ published: true
 title: Los materiales y el calor
 ---
 
-{{ page.vertical }}
-
 **Índice**
 * TOC
 {:toc}
