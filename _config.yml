@@ -90,7 +90,7 @@ prose:
         field:
           element: "text"
           label: "Sub-Title (Short Description)"
-          value: ""
+          value: "post"
       - name: "layout"
         field:
           element: "select"
