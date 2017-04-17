@@ -14,7 +14,9 @@ published: true
 title: Los materiales y el calor
 ---
 
+
 {{ page.horizontal }}
+# [Print]({{ site.url }}{{ site.baseurl }}{{ page.url }}/?print-pdf#)
 **Índice**
 * TOC
 {:toc}
