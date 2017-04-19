@@ -4,7 +4,7 @@ title: Cronogramas
 author: Alvar maciel
 tags: [cronogramas]
 subtitle: organización semanal
-category: Cronogramas
+category: [Cronogramas, planianual]
 ---
 **Índice**
 
