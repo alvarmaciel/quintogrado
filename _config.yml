@@ -4,7 +4,7 @@ description: "Un template integrado para docentes"
 url: "https://alvarmaciel.github.io" #"http://localhost:4000"
 
 # Secondary Parameters
-baseurl: "/quintogrado" #""
+baseurl: "/quintogrado"# ""
 header-img: img/trenes.jpg
 headercolor: "#FFFFFF"
 logo: #/img/espiral.png #/pruebapp/img/logos/Project-Pages-New-Logo-Inverted.png
