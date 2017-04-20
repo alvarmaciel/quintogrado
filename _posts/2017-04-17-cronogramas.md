@@ -1,11 +1,19 @@
 ---
+slideinit: "<section markdown=\"1\" data-background=\"https://alvarmaciel.github.io/quintogrado/img/slidebackground.png\"><section markdown=\"1\">"
+vertical: "</section><section markdown=\"1\">"
+horizontal: "</section></section><section markdown=\"1\" data-background=\"https://alvarmaciel.github.io/quintogrado/img/slidebackground.png\"><section markdown=\"1\">"
 layout: notebook
 title: Cronogramas
 author: Alvar maciel
-tags: [cronogramas]
+tags: cronogramas
 subtitle: organización semanal
-category: planianual
+category: cronogramas
+published: true
+theme: beige
+trans: cube
+visualworkflow: true
 ---
+
 **Índice**
 
 * TOC
