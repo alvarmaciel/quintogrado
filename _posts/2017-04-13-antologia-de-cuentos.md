@@ -80,3 +80,12 @@ Dedicaremos a este proyecto dos meses aproximadamente. Durante la semana tendrem
 ### El misterio del barrio. Liliana Cinetto
 
 ### Los Héctores. Ricardo Mariño
+- Lectura por parte del docente
+- Intercambio entre lectores
+- preguntas para responder en la carpeta
+  - ¿Quiénes eran Los Héctores?
+  - ¿Quién era Ana Maidana de Quintana?
+  - ¿Qué le pasaba al pueblo?
+- Lectura por parte de los estudiantes (una copia del cuento para cada unx)
+  - Subrayá en el cuento las frases que hicieron gritar a la muerta. Copiálas en la carpeta y escribílas correctamente.
+- Vamos a escribir imaginado: Supongamos que somos alguno de los Hectores, y queremos contar los que pasó en facebook ¿Qué escribirían?
