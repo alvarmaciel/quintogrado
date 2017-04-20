@@ -3,10 +3,10 @@
   <channel>
     <title>Planificaciones para armar</title>
     <description>Un template integrado para docentes</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 19 Apr 2017 15:45:00 -0300</pubDate>
-    <lastBuildDate>Wed, 19 Apr 2017 15:45:00 -0300</lastBuildDate>
+    <link>http://localhost:4000/quintogrado/</link>
+    <atom:link href="http://localhost:4000/quintogrado/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 20 Apr 2017 10:17:59 -0300</pubDate>
+    <lastBuildDate>Thu, 20 Apr 2017 10:17:59 -0300</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -95,8 +95,8 @@ El propósito de las actividades que se plantean para dar respuesta a este prime
 
 </description>
         <pubDate>Wed, 19 Apr 2017 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/proyectos/2017/04/19/la-vida-de-los-esclavos-en-las-revoluciones.html</link>
-        <guid isPermaLink="true">http://localhost:4000/proyectos/2017/04/19/la-vida-de-los-esclavos-en-las-revoluciones.html</guid>
+        <link>http://localhost:4000/quintogrado/proyectos/2017/04/19/la-vida-de-los-esclavos-en-las-revoluciones.html</link>
+        <guid isPermaLink="true">http://localhost:4000/quintogrado/proyectos/2017/04/19/la-vida-de-los-esclavos-en-las-revoluciones.html</guid>
         
         <category>Ciencias Sociales</category>
         
@@ -254,8 +254,8 @@ Termómetros y medición de temperatura
 Print
 </description>
         <pubDate>Mon, 17 Apr 2017 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/proyectos/2017/04/17/los-materiales-y-el-calor.html</link>
-        <guid isPermaLink="true">http://localhost:4000/proyectos/2017/04/17/los-materiales-y-el-calor.html</guid>
+        <link>http://localhost:4000/quintogrado/proyectos/2017/04/17/los-materiales-y-el-calor.html</link>
+        <guid isPermaLink="true">http://localhost:4000/quintogrado/proyectos/2017/04/17/los-materiales-y-el-calor.html</guid>
         
         <category>Ciencias</category>
         
@@ -410,13 +410,13 @@ Semana 17 al 21 de Abril
 
 </description>
         <pubDate>Mon, 17 Apr 2017 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/cronogramas/2017/04/17/cronogramas.html</link>
-        <guid isPermaLink="true">http://localhost:4000/cronogramas/2017/04/17/cronogramas.html</guid>
+        <link>http://localhost:4000/quintogrado/cronogramas/2017/04/17/cronogramas.html</link>
+        <guid isPermaLink="true">http://localhost:4000/quintogrado/cronogramas/2017/04/17/cronogramas.html</guid>
         
         <category>cronogramas</category>
         
         
-        <category>Cronogramas</category>
+        <category>cronogramas</category>
         
       </item>
     
@@ -953,8 +953,8 @@ Se abre la discusión
 Print
 </description>
         <pubDate>Sun, 16 Apr 2017 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/proyectos/2017/04/16/secuencia-numeracion.html</link>
-        <guid isPermaLink="true">http://localhost:4000/proyectos/2017/04/16/secuencia-numeracion.html</guid>
+        <link>http://localhost:4000/quintogrado/proyectos/2017/04/16/secuencia-numeracion.html</link>
+        <guid isPermaLink="true">http://localhost:4000/quintogrado/proyectos/2017/04/16/secuencia-numeracion.html</guid>
         
         <category>Matemáticas</category>
         
@@ -1075,8 +1075,8 @@ El misterio del barrio. Liliana Cinetto
 Los Héctores. Ricardo Mariño
 </description>
         <pubDate>Thu, 13 Apr 2017 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/proyectos/2017/04/13/antologia-de-cuentos.html</link>
-        <guid isPermaLink="true">http://localhost:4000/proyectos/2017/04/13/antologia-de-cuentos.html</guid>
+        <link>http://localhost:4000/quintogrado/proyectos/2017/04/13/antologia-de-cuentos.html</link>
+        <guid isPermaLink="true">http://localhost:4000/quintogrado/proyectos/2017/04/13/antologia-de-cuentos.html</guid>
         
         <category>prácticas del lenguaje</category>
         
@@ -1587,8 +1587,8 @@ Eje:¿Cuál es la prestación de servicios que se da en las ciudades, grandes, m
 
 </description>
         <pubDate>Tue, 11 Apr 2017 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/planianual/2017/04/11/planificacion-anual.html</link>
-        <guid isPermaLink="true">http://localhost:4000/planianual/2017/04/11/planificacion-anual.html</guid>
+        <link>http://localhost:4000/quintogrado/planianual/2017/04/11/planificacion-anual.html</link>
+        <guid isPermaLink="true">http://localhost:4000/quintogrado/planianual/2017/04/11/planificacion-anual.html</guid>
         
         <category>Planificacion anual</category>
         
