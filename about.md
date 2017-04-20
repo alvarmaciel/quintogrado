@@ -9,7 +9,7 @@ Planficaciones para armar es una herramienta para hacer sitios para docentes, pe
 
 En breve publicaré como pueden usar este sitio como base para hacer uno de su propia autoría.
 
-la herramienta es sencilla y en dos clicks, una edición de un archivo ya tienen su sitio listo para usar ^_^
+La herramienta es sencilla y en dos clicks, una edición de un archivo ya tienen su sitio listo para usar ^_^
 
 >¡Compartir es bueno!
 	
