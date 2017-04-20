@@ -2,7 +2,7 @@
 layout: page
 title: "Info"
 description: "¿Por qué uso esto?"
-header-img: "img/yeyointhe.jpg"
+header-img: "img/puerto.jpg"
 ---
 
 Planficaciones para armar es una herramienta para hacer sitios para docentes, permite que se muestren las últimás planificaciones a colegas, familias y personal de condución.
