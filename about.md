@@ -5,9 +5,11 @@ description: "¿Por qué uso esto?"
 header-img: "img/yeyointhe.jpg"
 ---
 
-Planficaciones para armar es una herramienta hacer blogs para docentes, que permite que se muestren sus últimás planificaciones a colegas, familias y personal de condución.
+Planficaciones para armar es una herramienta para hacer sitios para docentes, permite que se muestren las últimás planificaciones a colegas, familias y personal de condución.
 
 En breve publicaré como pueden usar este sitio como base para hacer uno de su propia autoría.
+
+la herramienta es sencilla y en dos clicks, una edición de un archivo ya tienen su sitio listo para usar ^_^
 
 >¡Compartir es bueno!
 	
