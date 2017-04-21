@@ -80,7 +80,7 @@ visualworkflow: true
   </tr>
 </table>
 //-->
-## Horario
+<!--## Horario
 
 |Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes|
 |:--:|:---------------------|:---------------------|:---------------------|:---------------------|:------|
@@ -90,7 +90,7 @@ visualworkflow: true
 |4   |Plástica              |Inglés                |Inglés                |Asamblea              |Tecnología|
 |5   |Matemáticas           |Prácticas del Lenguaje|C. Naturales          |Matemáticas           |Matemáticas|
 |6   |Matemáticas           |Prácticas del Lenguaje|C. Naturales          |Matemáticas           |Matemáticas|
-
+//-->
 ## Semana del 24 al 28 de Abril
 <table>
   <tr>
