@@ -31,7 +31,7 @@ visualworkflow: true
     <th align="center">Viernes</th>
   </tr>
   <tr>
-    <td align="center"></td>
+    <td align="center">1</td>
     <td ></td>
     <td></td>
     <td></td>
@@ -39,7 +39,7 @@ visualworkflow: true
     <td></td>
   </tr>
   <tr>
-    <td align="center"></td>
+    <td align="center">2</td>
     <td ></td>
     <td></td>
     <td></td>
@@ -47,7 +47,23 @@ visualworkflow: true
     <td></td>
   </tr>
   <tr>
-    <td align="center"></td>
+    <td align="center">3</td>
+    <td >Educación Física</td>
+    <td></td>
+    <td>Inglés</td>
+    <td>Música</td>
+    <td>Educación Física</td>
+  </tr>
+  <tr>
+    <td align="center">4</td>
+    <td >Plástica</td>
+    <td>Inglés</td>
+    <td>Inglés</td>
+    <td>Asamblea</td>
+    <td>Tecnología</td>
+  </tr>
+  <tr>
+    <td align="center">5</td>
     <td ></td>
     <td></td>
     <td></td>
@@ -55,23 +71,7 @@ visualworkflow: true
     <td></td>
   </tr>
   <tr>
-    <td align="center"></td>
-    <td ></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td align="center"></td>
-    <td ></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td align="center"></td>
+    <td align="center">6</td>
     <td ></td>
     <td></td>
     <td></td>
