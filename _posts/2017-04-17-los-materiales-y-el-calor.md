@@ -90,8 +90,13 @@ Para iniciar la secuencia de actividades, el docente propondrá a los alumnos un
 
 ### Análisis del experimento a la luz del texto
 
--Leemos entre todos el texto ¿Cuál es la diferencia entre calor y temperatura? marcamos y elaboramos mapa conceptual juntos.
-
+- Leemos entre todos el texto ¿Cuál es la diferencia entre calor y temperatura? marcamos y elaboramos mapa conceptual juntos.
+1. Lectura por parte del docente
+2. lectura por parte del docente con sguimiento de los estudiantes. En esta segunda instancia marcamos los conceptos centrales del texto analizando el texto por oraciones o parrafos.
+3. Copiado en la carpeta de los textos subrayados
+4. El maestro copia los segmentos que resaltamos en el pizarrón y con ellos elabora un mapa coneptual a modo de dictado al maestro
+5. Intentaremos responder
+  - ¿Por qué bajaba más rápido la yerba, por qué se movía?
 ### Termómetros y medición de temperatura
 
 -   Experiencia:
