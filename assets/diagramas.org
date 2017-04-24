@@ -1,0 +1,56 @@
+* Diagramas de secuencia
+** Relación entre Prácticas del lenguaje y Ciencias Sociales
+
+#+begin_src plantuml :file Practicas2Sociales01.png
+title Diagrama de relación entre Prácticas del Lenguaje y Ciencias Sociales
+activate Prácticas
+Prácticas -> Sociales: leer para estudiar
+note right: lectura y toma de notas\n Revoluciones
+activate Sociales
+Prácticas <- Sociales: escribir para estudiar
+note left: Escritura de textos breves,\n resumenes e informes
+deactivate Prácticas
+deactivate Sociales
+#+end_src
+
+#+results:
+[[file:Practicas2Sociales01.png]]
+** Relación entre Prácticas del lenguaje y Ciencias Sociales
+
+#+begin_src plantuml :file Practicas2Nat01.png
+title Diagrama de relación entre Prácticas del Lenguaje y Ciencias Sociales
+activate Prácticas
+Prácticas -> Naturales: leer para estudiar
+note right: lectura y mapas conceptuales\n Materiales y Calor
+activate Naturales
+Prácticas <- Naturales: escribir para estudiar
+note left: Escritura de textos breves.\n Conclusiones de experiencias
+deactivate Prácticas
+deactivate Naturales
+#+end_src
+
+#+results:
+[[file:Practicas2Nat01.png]]
+** Relación doble entre Prácticas,  Naturales y Sociales
+
+#+begin_src plantuml :file Practicas2SocialeYNaturaless01.png
+title Diagrama de relación entre Prácticas del Lenguaje, Sociales y Naturales
+activate Sociales
+activate Prácticas
+Activate Naturales
+Sociales -> Prácticas: Leer para estudiar
+note left: Lectura y toma de notas
+Naturales-> Prácticas: Leer para estudiar
+note right: lectura y mapas conceptuales
+Sociales <- Prácticas: Escribir para estudiar
+note right: reflexión sobre el\n lenguaje
+Prácticas -> Naturales: Escribir para estudiar
+note left: reflexión sobre el\n lenguaje
+
+deactivate Prácticas
+deactivate Sociales
+deactivate Naturales
+#+end_src
+
+#+results:
+[[file:Practicas2SocialeYNaturaless01.png]]
