@@ -1,0 +1,14 @@
+# Copiar a .git/config e iniciar gitflow
+#
+#     cat .gitflow >> .git/config
+#
+#     git flow init
+[gitflow "branch"]
+	master = gh-pages
+	develop = queue
+[gitflow "prefix"]
+	feature = planificacion/
+	release = edicion/
+	hotfix = hotfix/
+	support = support/
+versiontag =
