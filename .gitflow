@@ -4,10 +4,10 @@
 #
 #     git flow init
 [gitflow "branch"]
-	master = master
+	master = gh-pages
 	develop = queue
 [gitflow "prefix"]
-	feature = traduccion/
+	feature = planificacion/
 	release = edicion/
 	hotfix = hotfix/
 	support = support/
