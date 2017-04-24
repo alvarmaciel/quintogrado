@@ -100,7 +100,7 @@ published: true
   </tr>
   <tr>
     <td align="center">1</td>
-    <td >Antología de Cuentos</td>
+    <td >[Los Hectores. Facebook]({{site.url}}{{site.baseurl}}/proyectos/2017/04/13/antologia-de-cuentos.html#los-héctores-ricardo-mariño)</td>
     <td>Experiencia Termómetro</td>
     <td>Pausa Evaluativa</td>
     <td>Pausa Evaluativa</td>
@@ -108,7 +108,7 @@ published: true
   </tr>
   <tr>
     <td align="center">2</td>
-    <td >Antología de cuentos</td>
+    <td >[Los Hectores. Facebook]({{site.url}}{{site.baseurl}}/proyectos/2017/04/13/antologia-de-cuentos.html#los-héctores-ricardo-mariño)</td>
     <td>Experiencia Termómetro</td>
     <td>Pausa Evaluativa</td>
     <td>Pausa Evaluativa</td>

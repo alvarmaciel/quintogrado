@@ -89,3 +89,5 @@ Dedicaremos a este proyecto dos meses aproximadamente. Durante la semana tendrem
 - Lectura por parte de los estudiantes (una copia del cuento para cada unx)
   - Subrayá en el cuento las frases que hicieron gritar a la muerta. Copiálas en la carpeta y escribílas correctamente.
 - Vamos a escribir imaginado: Supongamos que somos alguno de los Hectores, y queremos contar los que pasó en facebook ¿Qué escribirían?
+- Escritura intermedia:
+  - Vamos a imaginar que vivimos en el pueblo de los Hectores. Vemos las cosas raras que están pasando en el pueblo y las queremos contar en facebook. ¿Cómo escribirías en facebook TODO lo que pasa en el pueblo?
