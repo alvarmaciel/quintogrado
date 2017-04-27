@@ -14,12 +14,15 @@ published: true
 {:toc}
 
 ## Ciencias Naturales
+
 ### 1. 26 de Abril
 1. ¿Qué le pasaba a la yerba que estaba en el agua caliente?
 2. ¿Qué tipos de energía estudiamos?
 3. ¿Es lo mismo temperatura que calor? ¿Por qué?
 4. Según lo que estudiamos. ¿Qué pasa cuando chocan las partículas?
+
 ## Prácticas del Lenguaje
+
 ### 1. 27 de Abril
 
 1. Completar la agenda de lectura
