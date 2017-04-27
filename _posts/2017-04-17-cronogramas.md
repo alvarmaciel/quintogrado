@@ -99,17 +99,17 @@ published: true
     <td align="center">1</td>
     <td ><a href="{{site.url}}{{site.baseurl}}/proyectos/2017/04/13/antologia-de-cuentos.html#los-héctores-ricardo-mariño">Los Héctores, Facebook</a></td>
     <td>Mapa conceptual</td>
-    <td>Pausa Evaluativa</td>
-    <td>Pausa Evaluativa</td>
+    <td><a href="{{site.url}}{{site.baseurl}}/planianual/2017/04/27/Pausas-Evaluativas.html#1-26-de-abril">Pausa Evaluativa</a></td>
+    <td><a href="{{site.url}}{{site.baseurl}}/planianual/2017/04/27/Pausas-Evaluativas.html#1-26-de-abril">Pausa Evaluativa</a></td>
     <td>Pausa evaluativa</td>
   </tr>
   <tr>
     <td align="center">2</td>
     <td ><a href="{{site.url}}{{site.baseurl}}/proyectos/2017/04/13/antologia-de-cuentos.html#los-héctores-ricardo-mariño">Los Héctores, Facebook</a></td>
     <td>Mapa conceptual</td>
-    <td>Pausa Evaluativa</td>
-    <td>Pausa Evaluativa</td>
-    <td>Pausa Evaluativa</td>
+	<td><a href="{{site.url}}{{site.baseurl}}/planianual/2017/04/27/Pausas-Evaluativas.html#1-26-de-abril">Pausa Evaluativa</a></td>
+    <td><a href="{{site.url}}{{site.baseurl}}/planianual/2017/04/27/Pausas-Evaluativas.html#1-26-de-abril">Pausa Evaluativa</a></td>    
+	<td>Pausa Evaluativa</td>
   </tr>
   <tr>
     <td align="center">3</td>
