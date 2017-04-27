@@ -1,10 +1,7 @@
 ---
-slideinit: "<section markdown=\"1\" data-background=\"https://alvarmaciel.github.io/quintogrado/img/slidebackground.png\"><section markdown=\"1\">"
-vertical: "</section><section markdown=\"1\">"
-horizontal: "</section></section><section markdown=\"1\" data-background=\"https://alvarmaciel.github.io/quintogrado/img/slidebackground.png\"><section markdown=\"1\">"
 layout: post
 title: Cronogramas
-author: Alvar maciel
+author: Alvar Maciel
 tags: cronogramas
 subtitle: organización semanal
 category: cronogramas
