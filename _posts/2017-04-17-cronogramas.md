@@ -101,7 +101,7 @@ published: true
   <tr>
     <td align="center">1</td>
     <td ><a href="{{site.url}}{{site.baseurl}}/proyectos/2017/04/13/antologia-de-cuentos.html#los-héctores-ricardo-mariño">Los Héctores, Facebook</a></td>
-    <td>Experiencia Termómetro</td>
+    <td>Mapa conceptual</td>
     <td>Pausa Evaluativa</td>
     <td>Pausa Evaluativa</td>
     <td>Pausa evaluativa</td>
@@ -109,7 +109,7 @@ published: true
   <tr>
     <td align="center">2</td>
     <td ><a href="{{site.url}}{{site.baseurl}}/proyectos/2017/04/13/antologia-de-cuentos.html#los-héctores-ricardo-mariño">Los Héctores, Facebook</a></td>
-    <td>Experiencia Termómetro</td>
+    <td>Mapa conceptual</td>
     <td>Pausa Evaluativa</td>
     <td>Pausa Evaluativa</td>
     <td>Pausa Evaluativa</td>
@@ -118,7 +118,7 @@ published: true
     <td align="center">3</td>
     <td >Educación Física</td>
     <td>Numeración 4</td>
-    <td>Inglés</td>
+    <td><stroke>Inglés</stroke><a href="{{site.url}}{{site.baseurl}}/2017/04/25/reflexion-sobre-el-lenguaje.html#signos-de-puntuaciÓn">Reflexión sobre el lenguaje</a></td>
     <td>Música</td>
     <td>Educación Física</td>
   </tr>
@@ -126,7 +126,7 @@ published: true
     <td align="center">4</td>
     <td >Plástica</td>
     <td>Inglés</td>
-    <td>Inglés</td>
+    <td><stroke>Inglés</stroke><a href="{{site.url}}{{site.baseurl}}/2017/04/25/reflexion-sobre-el-lenguaje.html#signos-de-puntuaciÓn">Reflexión sobre el lenguaje</a></td>
     <td>Asamblea</td>
     <td>Tecnología</td>
   </tr>
