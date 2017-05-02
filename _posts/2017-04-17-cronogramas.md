@@ -152,6 +152,8 @@ published: true
 
 # Abril
 
+---
+
 ## Semana del 24 al 28 de Abril
 
 a
@@ -215,6 +217,7 @@ a
 </tr>
 </table>
 
+---
 
 ## Semana 17 al 21 de Abril
 
