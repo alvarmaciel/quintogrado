@@ -154,6 +154,8 @@ published: true
 
 ## Semana del 24 al 28 de Abril
 
+a
+
 <table>
 <tr>
 <th align="center">Hora</th>
@@ -215,6 +217,8 @@ published: true
 
 
 ## Semana 17 al 21 de Abril
+
+a
 
 |Hora|Lunes|Martes|Miércoles|Jueves|Viernes|
 |:--:|:-----|:-----|:--------|:-----|:------|
