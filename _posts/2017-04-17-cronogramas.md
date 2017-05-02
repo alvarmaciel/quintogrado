@@ -86,7 +86,11 @@ published: true
 |6   |Matemáticas           |Prácticas del Lenguaje|C. Naturales          |Matemáticas           |Matemáticas|
 //-->
 # Mayo
-
+Durante este mes tendríamos que:
+- [ ] Empezar operaciones dandole énfasis al campo multiplcativo
+- [ ] Profundizar en la sistematización y reflexión sobre el lenguaje
+- [ ] Comenzar a estudiar sonido
+- [ ] Avanzar con el estudio de los esclavos en las sociedades americanas
 
 ## Semana del 1 al 5 de Mayo
 
