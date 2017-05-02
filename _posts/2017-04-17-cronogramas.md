@@ -85,6 +85,66 @@ published: true
 |5   |Matemáticas           |Prácticas del Lenguaje|C. Naturales          |Matemáticas           |Matemáticas|
 |6   |Matemáticas           |Prácticas del Lenguaje|C. Naturales          |Matemáticas           |Matemáticas|
 //-->
+## Semana del 1 al 5 de Mayo
+<table>
+  <tr>
+    <th align="center">Hora</th>
+    <th align="center">Lunes</th>
+    <th align="center">Martes</th>
+    <th align="center">Miércoles</th>
+    <th align="center">Jueves</th>
+    <th align="center">Viernes</th>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td >Feriado</td>
+    <td>Lectura Temperatura</td>
+    <td><a href="{{site.url}}{{site.baseurl}}/proyectos/2017/04/19/la-vida-de-los-esclavos-en-las-revoluciones.html#momento-1-cómo-era-la-vida-de-los-esclavos-en-las-sociedades-americanas">Esclavos en las sociedades americanas</a></td>
+    <td><a href="{{site.url}}{{site.baseurl}}/planianual/2017/04/27/Pausas-Evaluativas.html#1-26-de-abril">Pausa Evaluativa Matematicas</a></td>
+    <td><a href="{{site.url}}{{site.baseurl}}/proyectos/2017/04/19/la-vida-de-los-esclavos-en-las-revoluciones.html#momento-1-cómo-era-la-vida-de-los-esclavos-en-las-sociedades-americanas">Esclavos en las sociedades americanas</a></td>
+  </tr>
+  <tr>
+    <td align="center">2</td>
+    <td >Feriado</td>
+    <td>Lectura Temperatura</td>
+	<td><a href="{{site.url}}{{site.baseurl}}/proyectos/2017/04/19/la-vida-de-los-esclavos-en-las-revoluciones.html#momento-1-cómo-era-la-vida-de-los-esclavos-en-las-sociedades-americanas">Esclavos en las sociedades americanas</a></td>
+    <td><a href="{{site.url}}{{site.baseurl}}/planianual/2017/04/27/Pausas-Evaluativas.html#1-26-de-abril">Pausa Evaluativa Matemáticas</a></td>    
+	<td><a href="{{site.url}}{{site.baseurl}}/proyectos/2017/04/19/la-vida-de-los-esclavos-en-las-revoluciones.html#momento-1-cómo-era-la-vida-de-los-esclavos-en-las-sociedades-americanas">Esclavos en las sociedades americanas</a></td>
+  </tr>
+  <tr>
+    <td align="center">3</td>
+    <td >Educación Física</td>
+    <td>Tarea y propuesta de TP para los ausentes en las evaluaciones</td>
+    <td><stroke>Inglés</td>
+    <td>Música</td>
+    <td>Educación Física</td>
+  </tr>
+  <tr>
+    <td align="center">4</td>
+    <td >Plástica</td>
+    <td>Inglés</td>
+    <td>Inglés</td>
+    <td>Asamblea</td>
+    <td>Tecnología</td>
+  </tr>
+  <tr>
+    <td align="center">5</td>
+    <td >Feriado</td>
+    <td>Repaso Matemáticas</td>
+    <td>Medición con termómetro ambiental</td>
+    <td>Antología de cuentos. Selección</td>
+    <td>Festejamos los cumples</td>
+  </tr>
+  <tr>
+    <td align="center">6</td>
+    <td >Feriado</td>
+    <td>Repaso Matematicas</td>
+    <td>Medición con temómetro ambiental</td>
+    <td>Antología de cuentos. Selección</td>
+    <td>Festejamos los cumples</td>
+  </tr>
+</table>
+
 ## Semana del 24 al 28 de Abril
 <table>
   <tr>
