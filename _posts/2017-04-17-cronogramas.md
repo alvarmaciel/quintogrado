@@ -89,7 +89,7 @@ published: true
 
 
 ## Semana del 1 al 5 de Mayo
-
+<html>
 <table>
 <tr>
 <th align="center">Hora</th>
@@ -148,16 +148,14 @@ published: true
 <td>Festejamos los cumples</td>
 </tr>
 </table>
-
+</html>
 
 # Abril
 
----
 
 ## Semana del 24 al 28 de Abril
 
-a
-
+<html>
 <table>
 <tr>
 <th align="center">Hora</th>
@@ -216,12 +214,11 @@ a
 <td>La vida de los esclavos en américa</td>
 </tr>
 </table>
-
----
+</html>
 
 ## Semana 17 al 21 de Abril
 
-a
+
 
 |Hora|Lunes|Martes|Miércoles|Jueves|Viernes|
 |:--:|:-----|:-----|:--------|:-----|:------|
