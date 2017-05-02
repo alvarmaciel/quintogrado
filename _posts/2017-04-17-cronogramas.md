@@ -155,7 +155,6 @@ published: true
 <td>Festejamos los cumples</td>
 </tr>
 </table>
-</html>
 
 
 
@@ -164,7 +163,7 @@ published: true
 
 ### Semana del 24 al 28 de Abril
 
-<html>
+
 <table>
 <tr>
 <th align="center">Hora</th>
@@ -223,7 +222,6 @@ published: true
 <td>La vida de los esclavos en américa</td>
 </tr>
 </table>
-</html>
 
 ### Semana 17 al 21 de Abril
 
