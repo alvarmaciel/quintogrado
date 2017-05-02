@@ -150,6 +150,8 @@ published: true
 </table>
 </html>
 
+
+<!--
 # Abril
 
 
@@ -228,3 +230,4 @@ published: true
 |4|Plástica|Inglés|Inglés|Música|Tecnología|
 |5|[Numeración 3](https://alvarmaciel.github.io/pruebapp/proyectos/2017/04/16/secuencia-numeracion.html#numeraci%C3%B3n-3)|[Los Héctores]({{site.url}}{{site.baseurl}}/proyectos/2017/04/13/antologia-de-cuentos.html#los-héctores-ricardo-mariño)|Reflexión sobre el Lenguaje|[Numeración 3](https://alvarmaciel.github.io/pruebapp/proyectos/2017/04/16/secuencia-numeracion.html#numeraci%C3%B3n-3)|[Mapa Coneptual calor y temperatura]({{site.url}}{{site.baseurl}}/proyectos/2017/04/17/los-materiales-y-el-calor.html#análisis-del-experimento-a-la-luz-del-texto)|
 |6|[Numeración 3](https://alvarmaciel.github.io/pruebapp/proyectos/2017/04/16/secuencia-numeracion.html#numeraci%C3%B3n-3)|[Los Héctores]({{site.url}}{{site.baseurl}}/proyectos/2017/04/13/antologia-de-cuentos.html#los-héctores-ricardo-mariño)|[Los Héctores]({{site.url}}{{site.baseurl}}/proyectos/2017/04/13/antologia-de-cuentos.html#los-héctores-ricardo-mariño)|[Numeración 3](https://alvarmaciel.github.io/pruebapp/proyectos/2017/04/16/secuencia-numeracion.html#numeraci%C3%B3n-3)|[Mapa Coneptual calor y temperatura]({{site.url}}{{site.baseurl}}/proyectos/2017/04/17/los-materiales-y-el-calor.html#análisis-del-experimento-a-la-luz-del-texto)|
+//-->
