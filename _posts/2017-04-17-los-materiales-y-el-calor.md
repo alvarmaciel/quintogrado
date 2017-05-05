@@ -1,7 +1,4 @@
 ---
-slideinit: "<section markdown=\"1\" data-background=\"https://alvarmaciel.github.io/quintogrado/img/slidebackground.png\"><section markdown=\"1\">"
-vertical: "</section><section markdown=\"1\">"
-horizontal: "</section></section><section markdown=\"1\" data-background=\"https://alvarmaciel.github.io/quintogrado/img/slidebackground.png\"><section markdown=\"1\">"
 subtitle: Proyecto de simulación
 layout: post
 author: Alvar Maciel
@@ -97,21 +94,26 @@ Para iniciar la secuencia de actividades, el docente propondrá a los alumnos un
 4. El maestro copia los segmentos que resaltamos en el pizarrón y con ellos elabora un mapa coneptual a modo de dictado al maestro
 5. Intentaremos responder
   - ¿Por qué bajaba más rápido la yerba, por qué se movía?
+
 ### Termómetros y medición de temperatura
 
--   Experiencia:
-    -   tres recipientes con agua a distinta temperatura (agua de la canilla, agua con hielo, agua tibia)
-    -   Termómertos
-    -   El docente comenzará la clase mostrando a los alumnos el termómetro de laboratorio. Explicará cómo se utiliza: que el bulbo debe estar en contacto con el cuerpo cuya temperatura se quiere medir, que la temperatura se lee mirando la altura de la columna de mercurio, que hay que esperar a que la columna no se mueva más para leer la temperatura. Además, mencionará los cuidados y recaudos que es necesario tener para no romper los termómetros y, si alguno se rompiera, recordará que el mercurio es tóxico y no hay que tocarlo. Propondrá a cada grupo que mida la temperatura del agua de cada uno de los recipientes.
-        -   Preguntas para responder a partir de la experiencia:
-            -   ¿Cómo saben a qué temperatura está el agua?
-            -   ¿Dónde está ubicado el bulbo?
-            -   ¿Cómo se dan cuenta de que el agua de uno de los recipientes está a mayor temperatura que la del otro?
-            -   ¿Qué pasa cuando sacan el termómetro del agua? ¿Queda igual o se modifica la temperatura que indica?
-            -   ¿Cuál es la menor temperatura que se podría medir con este termómetro?
-            -   ¿Y la mayor?
-        -   Una vez que los alumnos hayan realizado las experiencias se trabajará con los resultados de las mismas con el fin de sistematizarlos. El docente orientará mediante preguntas la reflexión de los alumnos con el propósito de que puedan sacar algunas conclusiones.
-            -   Cuando el termómetro está en el agua medimos la temperatura del agua, ¿qué temperatura estamos midiendo cuando sacamos el termómetro del agua?
-            -   ¿Por qué baja/sube la temperatura cuando se saca el termómetro del agua?
+- Experiencia:
+  - Termómetros ambientales
+  - El docente comenzará la clase mostrando a los alumnos el termómetro ambiental. Explicará cómo se utiliza: que el bulbo debe estar en contacto con el ambiente y el aire que cuya temperatura se quiere medir, que la temperatura se lee mirando la altura de la columna, que hay que esperar a que la columna no se mueva más para leer la temperatura. Además, mencionará los cuidados y recaudos que es necesario tener para no romper los termómetros y, si alguno se rompiera, recordará que el mercurio es tóxico y no hay que tocarlo. Propondrá a cada grupo registre la temperatura del termómetro que se le asignó. Para registrar las temperaturas se utilizará la siguiente tabla
 
-### [Print]({{ site.url }}{{ site.baseurl }}{{ page.url }}/?print-pdf#)
+|Ubicación|hora|Temperatura|
+|:--------|:---|:----------|
+|Aula     |    |           |
+|Armario  |    |           |
+|Patio    |    |           |
+
+- Preguntas para responder a partir de la experiencia:
+  - ¿Cómo saben a qué temperatura está el aula?
+  - ¿Dónde está ubicado el bulbo?
+  - ¿Hubo cambios en la temperatura?
+  - ¿Por qué sube o baja la temperatura?
+  - ¿Cuál es la menor temperatura que se podría medir con este termómetro?
+  - ¿Y la mayor?
+  - Una vez que los alumnos hayan realizado las experiencias se trabajará con los resultados de las mismas con el fin de sistematizarlos. El docente orientará mediante preguntas la reflexión de los alumnos con el propósito de que puedan sacar algunas conclusiones.
+  - ¿La temperatura de qué estamos midiendo?
+
