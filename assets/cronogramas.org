@@ -1,0 +1,21 @@
+* Mayo
+
+| Hora | Lunes                  | Martes                 | Miércoles    | Jueves                 | Viernes          |
+|------+------------------------+------------------------+--------------+------------------------+------------------|
+|    1 | Prácticas del Lenguaje | C. Naturales           | C. Sociales  | Prácticas del Lenguaje | C. Sociales      |
+|    2 | Prácticas del Lenguaje | C. Naturales           | C. Sociales  | Prácticas del Lenguaje | C. Sociales      |
+|    3 | Educación Física       | Matemáticas            | Inglés       | Música                 | Educación Física |
+|    4 | Plástica               | Inglés                 | Inglés       | Asamblea               | Tecnología       |
+|    5 | Matemáticas            | Prácticas del Lenguaje | C. Naturales | Matemáticas            | Matemáticas      |
+|    6 | Matemáticas            | Prácticas del Lenguaje | C. Naturales | Matemáticas            | Matemáticas      |
+
+** 8 de Mayo al 12 de Mayo
+| Hora | Lunes                | Martes               | Miércoles            | Jueves               | Viernes              |
+|  <4> | <20>                 | <20>                 | <20>                 | <20>                 | <20>                 |
+|------+----------------------+----------------------+----------------------+----------------------+----------------------|
+|    1 | Escritura colectiva de carta de inicio | Medición con termómetro ambiental | Análisis Infografía  | Reflexión y sistematización | Análisis Infografía  |
+|    2 | Escritura colectiva de carta de inicio | Medición con termómetro ambiental | Análisis Infografía  | Reflexión y sistematización | Análisis Infografía  |
+|    3 | Educ. Física         | Operaciones 1 y Tarea | Inglés               | Música               | Educación Física     |
+|    4 | Plástica             | Inglés               | Inglés               | Asamblea             | Tecnología           |
+|    5 | Edición del juego de los Yaguaretes | Escritura colectiva  | Termómetro           | Operaciones 1        | Operaciones 1        |
+|    6 | Edición del juego de los Yaguaretes | Escritura colectiva  | Termómetro           | Operaciones 1        | Operaciones 1        |

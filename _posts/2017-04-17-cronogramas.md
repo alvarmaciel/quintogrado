@@ -93,6 +93,97 @@ Durante este mes tendríamos que:
 - [ ] Comenzar a estudiar sonido
 - [ ] Avanzar con el estudio de los esclavos en las sociedades americanas
 
+## Semana del 8 al 12 de Mayo
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right">Hora</th>
+<th scope="col" class="org-left">Lunes</th>
+<th scope="col" class="org-left">Martes</th>
+<th scope="col" class="org-left">Miércoles</th>
+<th scope="col" class="org-left">Jueves</th>
+<th scope="col" class="org-left">Viernes</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-right">1</td>
+<td class="org-left">Escritura colectiva de carta de inicio</td>
+<td class="org-left">Medición con termómetro ambiental</td>
+<td class="org-left">Análisis Infografía</td>
+<td class="org-left">Reflexión y sistematización</td>
+<td class="org-left">Análisis Infografía</td>
+</tr>
+
+
+<tr>
+<td class="org-right">2</td>
+<td class="org-left">Escritura colectiva de carta de inicio</td>
+<td class="org-left">Medición con termómetro ambiental</td>
+<td class="org-left">Análisis Infografía</td>
+<td class="org-left">Reflexión y sistematización</td>
+<td class="org-left">Análisis Infografía</td>
+</tr>
+
+
+<tr>
+<td class="org-right">3</td>
+<td class="org-left">Educ. Física</td>
+<td class="org-left">Operaciones 1 y Tarea</td>
+<td class="org-left">Inglés</td>
+<td class="org-left">Música</td>
+<td class="org-left">Educación Física</td>
+</tr>
+
+
+<tr>
+<td class="org-right">4</td>
+<td class="org-left">Plástica</td>
+<td class="org-left">Inglés</td>
+<td class="org-left">Inglés</td>
+<td class="org-left">Asamblea</td>
+<td class="org-left">Tecnología</td>
+</tr>
+
+
+<tr>
+<td class="org-right">5</td>
+<td class="org-left">Edición del juego de los Yaguaretes</td>
+<td class="org-left">Escritura colectiva</td>
+<td class="org-left">Termómetro</td>
+<td class="org-left">Operaciones 1</td>
+<td class="org-left">Operaciones 1</td>
+</tr>
+
+
+<tr>
+<td class="org-right">6</td>
+<td class="org-left">Edición del juego de los Yaguaretes</td>
+<td class="org-left">Escritura colectiva</td>
+<td class="org-left">Termómetro</td>
+<td class="org-left">Operaciones 1</td>
+<td class="org-left">Operaciones 1</td>
+</tr>
+</tbody>
+</table>
+
+
 ## Semana del 1 al 5 de Mayo
 
 <table>
