@@ -34,11 +34,10 @@ Dedicaremos a este proyecto dos meses aproximadamente. Durante la semana tendrem
 ## Situaciones de escritura
 
 - Fichaje y toma de nota de títulos leídos
-- Escritura de cuento por dictado al maestro
-- Escrituras intermedias para la producción de cuentos
+- Escritura de prólogo por dictado al maestro
+- Escrituras intermedias para la producción de material de la antología
 - Escritura de cuento en equipos
 - Escritura de carta a autor o personaje
-- Producción de cuento personal
 
 ## Cuentos seleccionados
 
@@ -91,3 +90,13 @@ Dedicaremos a este proyecto dos meses aproximadamente. Durante la semana tendrem
 - Vamos a escribir imaginado: Supongamos que somos alguno de los Hectores, y queremos contar los que pasó en facebook ¿Qué escribirían?
 - Escritura intermedia:
   - Vamos a imaginar que vivimos en el pueblo de los Hectores. Vemos las cosas raras que están pasando en el pueblo y las queremos contar en facebook. ¿Cómo escribirías en facebook TODO lo que pasa en el pueblo?
+### Cartas de incio y despedida de cada cuento
+- Vamos a escribir dos cartas para cada cuento, una de início, que sirva como introdución a los cuentos y otra de despedida.
+- En las cartas de incio tendríamos que reflejar ¿Qué podemos encontrar en el cuento... pero sin contar de que se trata totalmente?
+- En las cartas de despedida tendríamos que reflejar ¿Qué nos dejó el cuento?
+- En grupos de a dos se escribirán las cartas
+- Luego en grupos de 4 repasaran cada una de las cartas, eligiendo que dejar y que sacar, para hacer una carta final de cada grupo
+- Repasaremos juntos cada carta.
+### Escritura de prólogo por dictado al maestro
+- Escribiremos un breve prólogo por dictado al maestro
+### Impresión de la antología
