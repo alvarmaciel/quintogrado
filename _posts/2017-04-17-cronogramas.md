@@ -94,7 +94,7 @@ Durante este mes tendríamos que:
 - [ ] Avanzar con el estudio de los esclavos en las sociedades americanas
 
 ## Semana del 8 al 12 de Mayo
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<table>
 
 
 <colgroup>
