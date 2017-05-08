@@ -164,7 +164,7 @@ Durante este mes tendríamos que:
 
 <tr>
 <td class="org-right">5</td>
-<td class="org-left">Edición del juego de los Yaguaretes</td>
+<td class="org-left">Edición del juego de los Yaguaretés</td>
 <td class="org-left">Escritura colectiva</td>
 <td class="org-left">Termómetro</td>
 <td class="org-left">Operaciones 1</td>
@@ -174,7 +174,7 @@ Durante este mes tendríamos que:
 
 <tr>
 <td class="org-right">6</td>
-<td class="org-left">Edición del juego de los Yaguaretes</td>
+<td class="org-left">Edición del juego de los Yaguaretés</td>
 <td class="org-left">Escritura colectiva</td>
 <td class="org-left">Termómetro</td>
 <td class="org-left">Operaciones 1</td>
