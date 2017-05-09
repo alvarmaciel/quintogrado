@@ -145,7 +145,7 @@ Durante este mes tendríamos que:
 <tr>
 <td class="org-right">3</td>
 <td class="org-left">Educ. Física</td>
-<td class="org-left">Operaciones 1 y Tarea</td>
+<td class="org-left">Numeración egipcia y Tarea</td>
 <td class="org-left">Inglés</td>
 <td class="org-left">Música</td>
 <td class="org-left">Educación Física</td>
