@@ -153,8 +153,8 @@ Durante este mes tendríamos que:
 <td class="org-left">Edición del juego de los Yaguaretes</td>
 <td class="org-left">Escritura colectiva</td>
 <td class="org-left">Termómetro</td>
-<td class="org-left">Operaciones 1</td>
-<td class="org-left">Operaciones 1</td>
+<td class="org-left"><del>Operaciones 1</del> Sistema de numeración II</td>
+<td class="org-left"><del>Operaciones 1</del> Sistema de numeración II</td>
 </tr>
 
 
@@ -163,12 +163,11 @@ Durante este mes tendríamos que:
 <td class="org-left">Edición del juego de los Yaguaretes</td>
 <td class="org-left">Escritura colectiva</td>
 <td class="org-left">Termómetro</td>
-<td class="org-left">Operaciones 1</td>
-<td class="org-left">Operaciones 1</td>
+<td class="org-left"><del>Operaciones 1</del> Sistema de numeración II</td>
+<td class="org-left"><del>Operaciones 1</del> Sistema de numeración II</td>
 </tr>
 </tbody>
 </table>
-
 
 ## Semana del 1 al 5 de Mayo
 
