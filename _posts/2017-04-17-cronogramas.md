@@ -96,20 +96,6 @@ Durante este mes tendríamos que:
 ## Semana del 8 al 12 de Mayo
 <table>
 
-
-<colgroup>
-<col  class="org-right" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
 <thead>
 <tr>
 <th scope="col" class="org-right">Hora</th>
@@ -125,9 +111,9 @@ Durante este mes tendríamos que:
 <tr>
 <td class="org-right">1</td>
 <td class="org-left">Escritura colectiva de carta de inicio</td>
-<td class="org-left">Medición con termómetro ambiental</td>
+<td class="org-left"><del>Medición con termómetro ambiental</del> Continuamos con sociales</td>
 <td class="org-left">Análisis Infografía</td>
-<td class="org-left">Reflexión y sistematización</td>
+<td class="org-left"><del>Reflexión y sistematización</del> Análisis de las pausas</td>
 <td class="org-left">Análisis Infografía</td>
 </tr>
 
@@ -135,9 +121,9 @@ Durante este mes tendríamos que:
 <tr>
 <td class="org-right">2</td>
 <td class="org-left">Escritura colectiva de carta de inicio</td>
-<td class="org-left">Medición con termómetro ambiental</td>
+<td class="org-left"><del>Medición con termómetro ambiental</del> Continuamos con sociales</td>
 <td class="org-left">Análisis Infografía</td>
-<td class="org-left">Reflexión y sistematización</td>
+<td class="org-left"><del>Reflexión y sistematización</del> Análisis de las pausas</td>
 <td class="org-left">Análisis Infografía</td>
 </tr>
 
@@ -145,7 +131,7 @@ Durante este mes tendríamos que:
 <tr>
 <td class="org-right">3</td>
 <td class="org-left">Educ. Física</td>
-<td class="org-left">Numeración egipcia y Tarea</td>
+<td class="org-left"><del>Operaciones 1 y Tarea</del> Continuamos con sociales</td>
 <td class="org-left">Inglés</td>
 <td class="org-left">Música</td>
 <td class="org-left">Educación Física</td>
@@ -164,7 +150,7 @@ Durante este mes tendríamos que:
 
 <tr>
 <td class="org-right">5</td>
-<td class="org-left">Edición del juego de los Yaguaretés</td>
+<td class="org-left">Edición del juego de los Yaguaretes</td>
 <td class="org-left">Escritura colectiva</td>
 <td class="org-left">Termómetro</td>
 <td class="org-left">Operaciones 1</td>
@@ -174,7 +160,7 @@ Durante este mes tendríamos que:
 
 <tr>
 <td class="org-right">6</td>
-<td class="org-left">Edición del juego de los Yaguaretés</td>
+<td class="org-left">Edición del juego de los Yaguaretes</td>
 <td class="org-left">Escritura colectiva</td>
 <td class="org-left">Termómetro</td>
 <td class="org-left">Operaciones 1</td>

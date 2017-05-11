@@ -13,9 +13,9 @@
 | Hora | Lunes                | Martes               | Miércoles            | Jueves               | Viernes              |
 |  <4> | <20>                 | <20>                 | <20>                 | <20>                 | <20>                 |
 |------+----------------------+----------------------+----------------------+----------------------+----------------------|
-|    1 | Escritura colectiva de carta de inicio | Medición con termómetro ambiental | Análisis Infografía  | Reflexión y sistematización | Análisis Infografía  |
-|    2 | Escritura colectiva de carta de inicio | Medición con termómetro ambiental | Análisis Infografía  | Reflexión y sistematización | Análisis Infografía  |
-|    3 | Educ. Física         | Operaciones 1 y Tarea | Inglés               | Música               | Educación Física     |
+|    1 | Escritura colectiva de carta de inicio | +Medición con termómetro ambiental+ Continuamos con sociales | Análisis Infografía  | +Reflexión y sistematización+ Análisis de las pausas | Análisis Infografía  |
+|    2 | Escritura colectiva de carta de inicio | +Medición con termómetro ambiental+ Continuamos con sociales | Análisis Infografía  | +Reflexión y sistematización+ Análisis de las pausas | Análisis Infografía  |
+|    3 | Educ. Física         | +Operaciones 1 y Tarea+ Continuamos con sociales | Inglés               | Música               | Educación Física     |
 |    4 | Plástica             | Inglés               | Inglés               | Asamblea             | Tecnología           |
 |    5 | Edición del juego de los Yaguaretes | Escritura colectiva  | Termómetro           | Operaciones 1        | Operaciones 1        |
 |    6 | Edición del juego de los Yaguaretes | Escritura colectiva  | Termómetro           | Operaciones 1        | Operaciones 1        |
