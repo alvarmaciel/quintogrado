@@ -6,7 +6,7 @@ tags: cronogramas
 subtitle: organización semanal
 category: cronogramas
 published: true
-date: 2017-05-7
+date: 2017-05-15
 ---
 
 **Índice**
@@ -92,6 +92,17 @@ Durante este mes tendríamos que:
 - [ ] Profundizar en la sistematización y reflexión sobre el lenguaje
 - [ ] Comenzar a estudiar sonido
 - [ ] Avanzar con el estudio de los esclavos en las sociedades americanas
+
+## Semana del 15 al 19 de Mayo
+
+|Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes|
+|:--:|:---------------------|:---------------------|:---------------------|:---------------------|:------|
+|1   |~~Prácticas del Lenguaje~~ Capacitación|Medición de temperatura                            |Resumen de La vida de los esclavos|Bilembambudín         |~~C. Sociales~~ Campamento|
+|2   |~~Prácticas del Lenguaje~~ Capacitación|Medición de temperetura                            |Resumen de la vida de los esclavos|Bilembambudín         |~~C. Sociales~~ Campamento|
+|3   |~~Educación Física~~ Capacitación      |Repaso Tarea                                       |Inglés                            |Música                |~~Educación Física~~ Campamento|
+|4   |~~Plástica~~ Capacitación              |Inglés                                             |Inglés                            |Asamblea              |~~Tecnología~~ Campamento|
+|5   |~~Matemáticas~~ Capacitación           |Escritura por parte del maestro Carta de bienvenida|Medición de temperatura           |Otros sistemas de numeración           |~~Matemáticas~~ Campamento|
+|6   |~~Matemáticas~~ Capacitación           |Escritura por parte del maestro Carta de bienvenida|Juego Yaguareté                   |Otros sistemas de numeración           |~~Matemáticas~~ Campamento|
 
 ## Semana del 8 al 12 de Mayo
 <table>
