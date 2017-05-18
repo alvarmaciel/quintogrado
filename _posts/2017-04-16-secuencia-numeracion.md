@@ -217,4 +217,6 @@ En la siguiente planilla se marca con una cruz cada vez que se venden 10.000 dis
 - Para responder la pregunta 1. del problema ¿Será posible hacer una suma?
 - ¿Qué pregunta del problema se podría responder contando de 10.000 en 10.000?
 
-# [Print]({{ site.url }}{{ site.baseurl }}{{ page.url }}/?print-pdf#)
+# Otros sistemas de numeración
+
+## Sistema de numeración egipcio

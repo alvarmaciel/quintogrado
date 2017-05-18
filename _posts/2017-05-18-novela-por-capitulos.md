@@ -33,6 +33,6 @@ Dedicaremos a este proyecto aproximadamente dos meses, Durante la semana tendrem
 - Escrituras intermedias para coleccionar elementos para el juego
 - Escritura de reglas del juego
 
-# Lectura de Bilembambudín y secuencia de actividades
+## Lectura de Bilembambudín y secuencia de actividades
 
 ## Capítulo 1 y 2
