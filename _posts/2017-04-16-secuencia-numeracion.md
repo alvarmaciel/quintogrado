@@ -220,3 +220,40 @@ En la siguiente planilla se marca con una cruz cada vez que se venden 10.000 dis
 # Otros sistemas de numeración
 
 ## Sistema de numeración egipcio
+
+Hace aproximadamente 5.000 años, en Egipto se usaban estos símbolos para represntar los números
+
+![numeración Egipcia]({{site.url}}{{site.baseurl}}/img/NumeracionEgipcia.png)
+
+1. Para resolver estos problemas te podés ayudar con el cartel y con el cartel de arriba o con el siguiente ejemplo:
+
+
+  A. ¿Qué numeros representan las siguientes escrituras?
+  B. ¿Cómo se escribirá en egipcio el siguiente número?
+
+### Se abre la discusión
+
+- Decidan en grupos, cuales de las siguientes frases sobre la numeración son correctas
+  A. Cualquiera de los símbolos se puede repetir hasta nueve veces.
+  B. Cualquiera de los símbolos se puede repetir hasta cinco veces.
+  C. Los símbolos se suman para obtener el número
+  D. Hay un simbolo para el número 5
+  E. No se necesita el 0.
+  F. Los números se pueden escribir de atrás para adelante o de adelante para atras.
+  G. Se puede escribir cualquier número con estos símbolos.
+  H. EL número más grande que se puede escribir es 9.999.999 y se necesitan 63 símbolos.
+
+## Comparar sistemas de numeración
+
+1. Completar el siguiente cuadro (va al pizarrón)
+
+|Sistema egipcio|Sistema indoarábigo|
+|:-------------:|:-----------------:|
+|352||
+||1.217|
+||3.034|
+
+2. ¿Cuántos símbolos tiene cada sistema?
+3. ¿Por qué en el sistema egipcio no usan el 0?
+4. ¿Cuántos símbolos se usan en cada sistema para escribir 999?
+5. ¿En qué sistemas es importante la posición de los símbolos?
