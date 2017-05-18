@@ -36,3 +36,23 @@ Dedicaremos a este proyecto aproximadamente dos meses, Durante la semana tendrem
 ## Lectura de Bilembambudín y secuencia de actividades
 
 ## Capítulo 1 y 2
+- Exploración incial por parte de los estudiantes
+- Lectura por parte del maestro con seguimiento de los estudiantes
+- Ver notas al  pie
+## Intercambio
+  * ¿por qué dice que pasó *hace mucho y no hace tanto*?
+  * ¿Estaba contenta de ir al teatro?
+  * ¿Cómo se dan cuenta, como dice?
+  * ¿Cómo caminaba el Dragón?
+  * ¿Existen las palabras *dragonear* y *hombrear*?
+  * ¿Para qué salió al mundo Jeremías?
+  
+## Escritura de notas al pié
+1. Las notas al pié del capítulo 1 y 2 ¿Son palabras conocidad o inventadas por la autora?
+2. Buscar las notas al pie de los capítulos 1 y 2 y transcribirlos en tu carpeta
+## Fichas de personajes
+
+- Aldana
+  - Cómo es físicamente
+  - Cómo es su personalidad
+  
