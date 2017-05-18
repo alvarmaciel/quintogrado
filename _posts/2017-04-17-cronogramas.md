@@ -101,8 +101,8 @@ Durante este mes tendríamos que:
 |2   |~~Prácticas del Lenguaje~~ Capacitación|Medición de temperetura                            |Resumen de la vida de los esclavos|[Bilembambudín]({{site.url}}{{site.baseurl}}/proyectos/2017/05/18/novela-por-capitulos.html)         |~~C. Sociales~~ Campamento|
 |3   |~~Educación Física~~ Capacitación      |Repaso Tarea                                       |Inglés                            |Música                |~~Educación Física~~ Campamento|
 |4   |~~Plástica~~ Capacitación              |Inglés                                             |Inglés                            |Asamblea              |~~Tecnología~~ Campamento|
-|5   |~~Matemáticas~~ Capacitación           |Escritura por parte del maestro Carta de bienvenida|Medición de temperatura           |Otros sistemas de numeración           |~~Matemáticas~~ Campamento|
-|6   |~~Matemáticas~~ Capacitación           |Escritura por parte del maestro Carta de bienvenida|Juego Yaguareté                   |Otros sistemas de numeración           |~~Matemáticas~~ Campamento|
+|5   |~~Matemáticas~~ Capacitación           |Escritura por parte del maestro Carta de bienvenida|Medición de temperatura           |[Otros sistemas de numeración]({{site.url}}{{site.baseurl}}/proyectos/2017/04/16/secuencia-numeracion.html#otros-sistemas-de-numeración)           |~~Matemáticas~~ Campamento|
+|6   |~~Matemáticas~~ Capacitación           |Escritura por parte del maestro Carta de bienvenida|Juego Yaguareté                   |[Otros sistemas de numeración]({{site.url}}{{site.baseurl}}/proyectos/2017/04/16/secuencia-numeracion.html#otros-sistemas-de-numeración)           |~~Matemáticas~~ Campamento|
 
 ## Semana del 8 al 12 de Mayo
 <table>
