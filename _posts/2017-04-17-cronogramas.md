@@ -93,6 +93,18 @@ Durante este mes tendríamos que:
 - [ ] Comenzar a estudiar sonido
 - [ ] Avanzar con el estudio de los esclavos en las sociedades americanas
 
+## Semana del 22 al 26 de Mayo
+
+|Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes|
+|:--:|:---------------------|:---------------------|:---------------------|:---------------------|:------|
+|1   |Cartas de Inicio             |Medición                    |Esclavos momento 3       |~~Prácticas del Lenguaje~~|Esclavos momento 3|
+|2   |Cartas de Inicio             |Medición                    |Esclavos momento 3       |~~Prácticas del Lenguaje~~|Esclavos momento 3|
+|3   |Educación Física             |Otros sistemas de nueración |Inglés                   |~~Música~~                |Educación Física|
+|4   |~~Plástica~~                 |Inglés                      |Inglés                   |~~Asamblea~~              |Tecnología|
+|5   |Otros sistemas de numeración |Reflexión del lenguaje      |Medición                 |~~Matemáticas~~           |Operaciones 1|
+|6   |Otros sistemas de numeración |Reflexión del Lenguaje      |Cierre materiales y calor|~~Matemáticas~~           |Operaciones 1|
+
+
 ## Semana del 15 al 19 de Mayo
 
 |Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes|
