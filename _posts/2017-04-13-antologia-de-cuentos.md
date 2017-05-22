@@ -95,8 +95,13 @@ Dedicaremos a este proyecto dos meses aproximadamente. Durante la semana tendrem
 - En las cartas de incio tendríamos que reflejar ¿Qué podemos encontrar en el cuento... pero sin contar de que se trata totalmente?
 - En las cartas de despedida tendríamos que reflejar ¿Qué nos dejó el cuento?
 - En grupos de a dos se escribirán las cartas
-- Luego en grupos de 4 repasaran cada una de las cartas, eligiendo que dejar y que sacar, para hacer una carta final de cada grupo
+- Luego en sus grupos repasaran cada una de las cartas, eligiendo que dejar y que sacar, para hacer una carta final de cada grupo
 - Repasaremos juntos cada carta.
+- Consigna de escritura:
+  - Ahora vamos a escribir, en parejas, las cartas de inicio de los cuentos. Tengan en cuenta:
+	- las fórmulas de bienvenida,
+	- Contar algunas cosas del cuento pero NO contarlo todo y
+	- las fórmulas de cierre
 ### Escritura de prólogo por dictado al maestro
 - Escribiremos un breve prólogo por dictado al maestro
 ### Impresión de la antología
