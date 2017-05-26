@@ -70,13 +70,13 @@ Se puede planteará a los niños preguntas tales como: ¿Qué trabajos realizaba
 
 Se trata de representaciones antiguas en las que es posible observar cómo era el tra bajo de los esclavos. **No se trata de imágenes elaboradas para denunciar la esclavitud** sino para ilustrar la economía de la época colonial en el mundo rural del Caribe. Aun así, y por eso su valor, hay en ellas elementos que expresan el trabajo forzado propio de la esclavitud:
 
-![Esclavos trabajando en el corte de la caña de azúcar]({{site.url}}{{site.baseurl}}/assets/ImgEscalvos/cania.jpg)
+![]({{site.url}}{{site.baseurl}}/assets/ImgEscalvos/cania.jpg)
 
-![Molienda y fabricación del azúcar en un establecimiento a fines del siglo XVII:]({{site.url}}{{site.baseurl}}/assets/ImgEscalvos/cania2.jpg)
+![]({{site.url}}{{site.baseurl}}/assets/ImgEscalvos/cania2.jpg)
 
-![Preparación del tabaco y de la harina de mandioca:]({{site.url}}{{site.baseurl}}/assets/ImgEscalvos/mandioca.jpg)
+![]({{site.url}}{{site.baseurl}}/assets/ImgEscalvos/mandioca.jpg)
 
-![Plantacion]({{site.url}}{{site.baseurl}}/assets/ImgEscalvos/plantacion.jpg)
+![]({{site.url}}{{site.baseurl}}/assets/ImgEscalvos/plantacion.jpg)
 
 - ¿Qué trabajos se observan en las imágenes? 
 - ¿En qué elementos se observa que el trabajo de los esclavos era forzado?
