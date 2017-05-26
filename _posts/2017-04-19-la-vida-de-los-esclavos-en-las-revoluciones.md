@@ -57,3 +57,40 @@ El propósito de las actividades que se plantean para dar respuesta a este prime
   - las razones por las cuales los españoles colonizadores decidieron promover el ingreso de esclavos.
   - Los trabajos específicos en los que se incorporaron los esclavos africanos en el funcionamiento de la economía colonial.
   - Las características singulares y los sujetos y Estados europeos involucrados en el proceso de captura de esclavos en el territorio africano.
+
+# Momento 2: ¿Cómo cambió la vida de estos y de otros esclavos con la Revolución Francesa?
+
+El propósito de las actividades que se plantean para dar respuesta a este segundo in terrogante es que los niños puedan atender a uno de los efectos más peculiares de la Declaración de Derechos del Hombre y el Ciudadano de 1789: la rebelión de esclavos en Saint-Domingue (la principal colonia francesa en el Caribe), para quienes los lemas de Libertad, Igualdad y Fraternidad tuvieron un sentido muy concreto, y que derivó no solamente en la abolición de la esclavitud en 1794, sino también en la independencia en 1804 de Haití, el primer país latinoamericano en alcanzarla.
+
+## La vida de los esclavos en la actual República de Haití.
+
+### Análisis de imágenes
+
+Se puede planteará a los niños preguntas tales como: ¿Qué trabajos realizaban los esclavos en esos lugares?, ¿en qué consistían esos trabajos? Se presentarán entonces a los alumnos imágenes que den cuenta de las condiciones de vida de los esclavos en las colonias francesas del Caribe, tomadas del sitio de la Biblioteca Digital Manioc: www.manioc.org
+
+Se trata de representaciones antiguas en las que es posible observar cómo era el tra bajo de los esclavos. **No se trata de imágenes elaboradas para denunciar la esclavitud** sino para ilustrar la economía de la época colonial en el mundo rural del Caribe. Aun así, y por eso su valor, hay en ellas elementos que expresan el trabajo forzado propio de la esclavitud:
+
+![Esclavos trabajando en el corte de la caña de azúcar]({{site.url}}{{site.baseurl}}/assets/ImgEscalvos/cania.jpg)
+
+![Molienda y fabricación del azúcar en un establecimiento a fines del siglo XVII:]({{site.url}}{{site.baseurl}}/assets/ImgEscalvos/cania2.jpg)
+
+![Preparación del tabaco y de la harina de mandioca:]({{site.url}}{{site.baseurl}}/assets/ImgEscalvos/mandioca.jpg)
+
+![Plantacion]({{site.url}}{{site.baseurl}}/assets/ImgEscalvos/plantacion.jpg)
+
+- ¿Qué trabajos se observan en las imágenes? 
+- ¿En qué elementos se observa que el trabajo de los esclavos era forzado?
+
+### Análisis de fuente documental
+
+Se propone reflexionar acerca de cómo era la vida de los esclavos en las colonias francesas de América, a diferencia de las personas libres, y de los derechos que tenían los dueños sobre sus esclavos. Para ello, se indica a los alumnos la lectura de un breve texto que reescribe fragmentos de “El Código Negro” sancionado en Francia en el año 1685 por el Rey Luis XIV para ser aplicado en las colonias francesas de América:
+
+- El Artículo 12 del Código Negro indicaba que los hijos de matrimonios entre esclavos nacían esclavos y pertenecían a los dueños de la madre del niño, en el caso de que ambos, madre y padre, no fuesen esclavos de un mismo dueño.
+- El Artículo 15 prohibía a los esclavos llevar todo tipo de objeto que pudiese ser usado como arma, como por ejemplo palos gruesos. Si eran encontrados con un objeto semejante serían castigados físicamente, “azotados con el látigo”. Sólo les era permitido llevar un arma en el caso de que su dueño les hubiese ordenado ir a cazar, y si llevaban además una carta del amo permitiéndoselo. 
+- El Artículo 16 prohibía a los esclavos de diferentes dueños reunirse tanto de día como de noche. No se les permitía hacerlo ni en las casas de los amos, ni por los caminos, ni ir juntos a una boda, bajo la pena de castigos corporales. 
+- El Artículo 19 prohibía a los esclavos vender en los mercados todo tipo de productos, fuesen frutos, leños, hierbas para animales o manufacturas. Sólo les era permitido vender con un permiso escrito de sus dueños. Si no lo tenían consigo, se les sacarían los productos, sin devolverlos a sus amos.
+
+### La revolución Francesa
+
+Con el objetivo de introducir a los niños en la comprensión de qué fue la Revolución Francesa, se indica la lectura de la página 24 del cuadernillo “Ciencias Sociales. Belgrano y los tiempos de la Independencia”. Allí se busca responder a las siguientes preguntas: ¿Qué pasó en Francia? ¿Por qué sucedió? 
+- El Cuadernillo está disponible en: http://www.buenosaires.gob.ar/areas/educacion/curricula/plan_plurianual_oct07/cs_sociales/cs_belgrano_a.pdf
