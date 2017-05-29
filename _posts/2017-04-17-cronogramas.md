@@ -6,7 +6,7 @@ tags: cronogramas
 subtitle: organización semanal
 category: cronogramas
 published: true
-date: 2017-05-15
+date: 2017-05-29
 ---
 
 **Índice**
@@ -93,6 +93,15 @@ Durante este mes tendríamos que:
 - [ ] Comenzar a estudiar sonido
 - [ ] Avanzar con el estudio de los esclavos en las sociedades americanas
 
+## Semana del 29 de Mayo al 2 de Junio
+|Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes|
+|:--:|:---------------------|:---------------------|:---------------------|:---------------------|:------|
+|1   |Reglas de los juegos  |Sonido                |Esclavos Rev. Francesa|Reflexión del Lenguaje|Esclavos 3 |
+|2   |Yaguareté y brotes    |Sonido                |Esclavos Rev. Francesa|Reflexión del Lenguaje|Esclavos 3 |
+|3   |Educación Física      |Tarea y Operaciones   |Inglés                |Música                |Educación Física|
+|4   |Plástica              |Inglés                |Inglés                |Asamblea              |Tecnología|
+|5   |Cierre numeración     |Bilembambudín         |Sonido                |Operaciones 1         |Operaciones 1|
+|6   |Cierre numeración     |Bilembambudín         |Sonido                |Operaciones 1         |Operaciones 1|
 ## Semana del 22 al 26 de Mayo
 
 |Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes|
