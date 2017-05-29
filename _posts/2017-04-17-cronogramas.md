@@ -94,6 +94,7 @@ Durante este mes tendríamos que:
 - [ ] Avanzar con el estudio de los esclavos en las sociedades americanas
 
 ## Semana del 29 de Mayo al 2 de Junio
+
 |Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes|
 |:--:|:---------------------|:---------------------|:---------------------|:---------------------|:------|
 |1   |Reglas de los juegos  |Sonido                |Esclavos Rev. Francesa|Reflexión del Lenguaje|Esclavos 3 |
