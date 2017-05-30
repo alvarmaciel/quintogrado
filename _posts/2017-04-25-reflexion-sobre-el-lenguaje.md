@@ -2,7 +2,7 @@
 layout: post
 title: Reflexión sobre el lenguaje
 author: Alvar maciel
-tags: [Planificacion anual]
+tags: [Prácticas del lenguaje, Planificacion anual]
 subtitle: Quinto grado 2017
 category:  planianual
 ---
@@ -13,7 +13,7 @@ category:  planianual
 
 
 
-## Contenidos en relación a la reflexión del lenguaje para quinto grado
+## Contenidos en relación a la reflexión del lenguaje para quinto grado Diseño Curricular
 
 Algunas frases, notas, para delinear la relfexión sobre el lenguaje, extraidas del cuadernillo [Pensar la enseñanza, anticipar las prácticas]({{site.url}}{site.baseurl}}/assets/cuadernillo1.pdf)
 
@@ -118,3 +118,10 @@ Algunas frases, notas, para delinear la relfexión sobre el lenguaje, extraidas 
 -   [ ] Uso de comas para aclaración y aposición.
 -   [ ] Usos inapropiados de la coma (en la separación entre sujeto y predicado y entre núcleo y modificador directo).
 
+## Las situaciones de reflexión sobre la gramática y el texto (Cuadernillo 5°)
+se propone desarrollar pequeñas secuencias para profundizar en algunas situaciones de reflexión:
+
+- La cohesión de los textos (incluida la puntuación)
+- Los recursos para describir (sustantivos, adjetivos y construcciones sustantivas)
+- El uso de los verbos en la narración (tiempos verbales, Modo Indicativo, verbos de estado, verbos de acción, verbos del decir, verbos de vida interior)
+- Formas de valorar y expresar opiniones (recomendaciones y reseñas)
