@@ -7,9 +7,8 @@ subtitle: Operaciones quinto grado
 category: proyectos
 ---
 **Índice**
-
 * TOC
-* {:toc}
+{:toc}
 
 ## Para resolver con cálculos que conocen
 Una empresa constructora está construyendo un edifício que tiene 24 pisos y varios departamentos en cada piso
