@@ -10,6 +10,8 @@ category: proyectos
 * TOC
 {:toc}
 
+
+# Grupo general
 ## Para resolver con cálculos que conocen
 Una empresa constructora está construyendo un edificio que tiene 24 pisos y varios departamentos en cada piso
 
@@ -38,3 +40,24 @@ Una empresa constructora está construyendo un edificio que tiene 24 pisos y var
 >- ¿Se puede resolver haciendo una suma?¿Y haciendo 2 x 2 x 4?
 
 6. Para todo el edificio se necesitan 730 caños de plástico. Los van recibiendo en camiones en los que hay lugar para 48 caños. Si utilizan al máximo la capacidad de los camiones, ¿Cuántos camiones son necesarios?
+
+# Grupo prioritario
+ Secuencia tomada del [material de grados de acelaración[(https://drive.google.com/file/d/0B2tNpJnvdpZJZFBKRENadUJvUHM/view)
+
+## Trabajo con facturas
+
+1. Joaquín compró 6 libros. Inés compró 8 compacts. Carolina compró 10 lapiceras para regalar. ¿Quién gastó más? ¿Quién gastó menos?
+
+![]({{site.url}}{{site.baseurl}}/assets/Mate/Seleccion_28.png)
+
+
+
+![]({{site.url}}{{site.baseurl}}/assets/Mate/Seleccion_28.png)
+
+
+
+
+![]({{site.url}}{{site.baseurl}}/assets/Mate/Seleccion_28.png)
+
+
+
