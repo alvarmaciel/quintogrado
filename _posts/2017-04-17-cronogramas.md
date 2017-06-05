@@ -6,7 +6,7 @@ tags: cronogramas
 subtitle: organización semanal
 category: cronogramas
 published: true
-date: 2017-05-29
+date: 2017-06-5
 ---
 
 **Índice**
@@ -86,12 +86,29 @@ date: 2017-05-29
 |5   |Matemáticas           |Prácticas del Lenguaje|C. Naturales          |Matemáticas           |Matemáticas|
 |6   |Matemáticas           |Prácticas del Lenguaje|C. Naturales          |Matemáticas           |Matemáticas|
 //-->
+
+# Junio
+
+
+## Semana del 5 de al 9 de Junio
+
+|Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes         |
+|:--:|:---------------------|:---------------------|:---------------------|:---------------------|:---------------|
+|1   |Continuar puntuación  |Sonido 3              |Esclavos Rev. Francesa|Reflexión del Lenguaje|Esclavos 3      |
+|2   |Continuar puntuación  |Sonido 3              |Esclavos Rev. Francesa|Reflexión del Lenguaje|Esclavos 3      |
+|3   |Educación Física      |Tarea y Operaciones   |Inglés                |Música                |Educación Física|
+|4   |Plástica              |Inglés                |Inglés                |Asamblea              |Tecnología      |
+|5   |Operaciones 1         |Bilembambudín         |Sonido 3              |Operaciones 1         |Operaciones 1   |
+|6   |Operaciones 1         |Bilembambudín         |Sonido 3              |Operaciones 1         |Operaciones 1   |
+
+
+
 # Mayo
 Durante este mes tendríamos que:
-- [ ] Empezar operaciones dandole énfasis al campo multiplcativo
-- [ ] Profundizar en la sistematización y reflexión sobre el lenguaje
-- [ ] Comenzar a estudiar sonido
-- [ ] Avanzar con el estudio de los esclavos en las sociedades americanas
+- [x] Empezar operaciones dandole énfasis al campo multiplcativo
+- [x] Profundizar en la sistematización y reflexión sobre el lenguaje
+- [x] Comenzar a estudiar sonido
+- [x] Avanzar con el estudio de los esclavos en las sociedades americanas
 
 ## Semana del 29 de Mayo al 2 de Junio
 
