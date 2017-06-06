@@ -5,12 +5,68 @@ author: Alvar maciel
 tags: [Matemáticas, secuencias]
 subtitle: Operaciones quinto grado
 category: proyectos
+date: 06-06-17
 ---
 **Índice**
 * TOC
 {:toc}
 
+Me encontré con que el grupo general no podía resolver los problemas, así que vamos a reforzar algunas cuestiones de cálculo para después retomar los problemas. Para eso usaremos la secuencia de [números naturales](http://buenosaires.gob.ar/areas/educacion/curricula/pdf/numeros-naturales_web.pdf) del Ministerio de Educación de C. A. B. A.
 
+# Grupo total
+## La tabla pitagórica para resolver divisiones
+1. Completar la tabla pitagórica
+2. La tabla pitagórica para resolver divisiones
+   1. Un  número, multiplicado por 7, da 56. ¿Qué número es?
+	  Después de buscar el número, identificá entre las siguientes escrituras la que representa esta adivinanza:
+     - 7 + ... = 56
+	 - ... x 7 = 56
+	 - ... – 7 = 56
+   2. Para cada una de las siguientes preguntas, señalá la respuesta correcta y anotá el cálculo que hiciste para responder:
+	  - ¿Cuál es el número que, multiplicdo por 5, da 40?
+		- 5
+		- 8
+		- 10
+	  - ¿Cuál es el número que, multiplicdo por 7, da 21?
+		- 6
+		- 3
+		- 9
+	  - ¿Cuál es el número que, multiplicdo por 8, da 32?
+		- 7
+		- 3
+		- 4
+   3. A partir de los resultados de la tabla de multiplicaciones,  completá  el  cociente  de  las siguientes divisiones: 
+	  * 36 : 6 =
+	  * 48 : 8 =
+	  * 81 : 9 =
+	  * 36 : 4 =
+	  * 42 : 7 =
+## Multiplicación y división por 10, 100 y 1.000 y por otros números terminados en ceros
+
+1. En la tabla de multiplicaciones encontramos algo que ya sabíamos: al multiplicar un número por 10, el producto termina en cero. 
+   1. ¿Eso sucede siempre? ¿Podemos saber con certeza que si uno continúa con la tabla del 10 hasta un número cualquiera, el producto terminará en 0? ¿Por qué sucede eso?
+   2. Podés dar rápidamente el resulta do de 25 x 10? ¿Y, luego el de 64 x 10?
+   3. ¿Cuáles de estos números podrían ser el resulta do de una multiplicación por 10?
+	  - 168 
+	  - 7.980
+	  - 7.809 
+	  - 9.800 
+	  - 5.076 
+	  - 3.460
+2. Vamos a retomar las relaciones anteriores para analizar las multiplicaciones por 100.
+   1. Calculá:
+	  23 x 100          20 x 100          105 x 100          123 x 100          120 x 100
+   2. ¿Cuáles de estos números podrían ser el resulta do de una multiplicación por 100?
+	  450          400          2.350          2.300          2.003          2.030          1.200.000
+   3. Calculá mentalmente:
+	  
+	  a)  45 x ... = 4.500              d)  ... x 10 = 320
+	  b)  128 x ... = 1.280             e)  ... x 100 = 800
+      c)  17 x ... = 17.000             f)  ... x 100 = 1.300
+   
+   
+   
+   
 # Grupo general
 ## Para resolver con cálculos que conocen
 Una empresa constructora está construyendo un edificio que tiene 24 pisos y varios departamentos en cada piso
