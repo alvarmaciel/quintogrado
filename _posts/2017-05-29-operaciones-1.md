@@ -57,14 +57,18 @@ Me encontré con que el grupo general no podía resolver los problemas, así que
 	  - 3.460
 2. Vamos a retomar las relaciones anteriores para analizar las multiplicaciones por 100.
    1. Calculá:
-	  23 x 100          20 x 100          105 x 100          123 x 100          120 x 100
+
+          23 x 100          20 x 100          105 x 100          123 x 100          120 x 100
+
    2. ¿Cuáles de estos números podrían ser el resulta do de una multiplicación por 100?
-	  450          400          2.350          2.300          2.003          2.030          1.200.000
+
+            450          400          2.350          2.300          2.003          2.030          1.200.000
+
    3. Calculá mentalmente:
 	  
-	  a)  45 x ... = 4.500              d)  ... x 10 = 320
-	  b)  128 x ... = 1.280             e)  ... x 100 = 800
-      c)  17 x ... = 17.000             f)  ... x 100 = 1.300
+	      a)  45 x ... = 4.500              d)  ... x 10 = 320
+	      b)  128 x ... = 1.280             e)  ... x 100 = 800
+          c)  17 x ... = 17.000             f)  ... x 100 = 1.300
    
    
    
