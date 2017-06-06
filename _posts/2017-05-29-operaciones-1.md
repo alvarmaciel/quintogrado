@@ -62,7 +62,7 @@ Me encontré con que el grupo general no podía resolver los problemas, así que
 
    2. ¿Cuáles de estos números podrían ser el resulta do de una multiplicación por 100?
 
-            450          400          2.350          2.300          2.003          2.030          1.200.000
+            450      400      2.350       2.300       2.003       2.030       1.200.000
 
    3. Calculá mentalmente:
 	  
