@@ -14,6 +14,7 @@ date: 06-06-17
 Me encontré con que el grupo general no podía resolver los problemas, así que vamos a reforzar algunas cuestiones de cálculo para después retomar los problemas. Para eso usaremos la secuencia de [números naturales](http://buenosaires.gob.ar/areas/educacion/curricula/pdf/numeros-naturales_web.pdf) del Ministerio de Educación de C. A. B. A.
 
 # Grupo total
+
 ## La tabla pitagórica para resolver divisiones
 1. Completar la tabla pitagórica
 2. La tabla pitagórica para resolver divisiones
@@ -41,6 +42,7 @@ Me encontré con que el grupo general no podía resolver los problemas, así que
 	  * 81 : 9 =
 	  * 36 : 4 =
 	  * 42 : 7 =
+
 ## Multiplicación y división por 10, 100 y 1.000 y por otros números terminados en ceros
 
 1. En la tabla de multiplicaciones encontramos algo que ya sabíamos: al multiplicar un número por 10, el producto termina en cero. 
