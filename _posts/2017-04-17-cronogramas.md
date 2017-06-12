@@ -6,7 +6,7 @@ tags: cronogramas
 subtitle: organización semanal
 category: cronogramas
 published: true
-date: 2017-06-5
+date: 2017-06-12
 ---
 
 **Índice**
@@ -88,18 +88,28 @@ date: 2017-06-5
 //-->
 
 # Junio
+## Semana del 12 al 16 de Junio
+|Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes         |
+|:--:|:---------------------|:---------------------|:---------------------|:---------------------|:---------------|
+|1   |Operaciones 1         |Sonido 3              |Esclavos Rev. Mayos   |Reflexión del Lenguaje|Esclavos 3      |
+|2   |Operaciones 1         |Sonido 3              |Esclavos Rev. Mayo    |Reflexión del Lenguaje|Esclavos 3      |
+|3   |Educación Física      |Tarea y Operaciones   |Inglés                |Música                |Educación Física|
+|4   |Plástica              |Inglés                |Inglés                |Asamblea              |Tecnología      |
+|5   |Cierre fichas         |Bilembambudín cap 4   |Sonido 3              |Operaciones 1         |Operaciones 1   |
+|6   |Cierre fichas         |Bilembambudín cap 4   |Sonido 3              |Operaciones 1         |Operaciones 1   |
+
 
 
 ## Semana del 5 de al 9 de Junio
 
 |Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes         |
 |:--:|:---------------------|:---------------------|:---------------------|:---------------------|:---------------|
-|1   |Continuar puntuación  |Sonido 3              |Esclavos Rev. Francesa|Reflexión del Lenguaje|Esclavos 3      |
-|2   |Continuar puntuación  |Sonido 3              |Esclavos Rev. Francesa|Reflexión del Lenguaje|Esclavos 3      |
+|1   |Continuar puntuación  |~~Sonido 3~~ Operaciones 1              |Esclavos Rev. Francesa|~~Reflexión del Lenguaje~~ Fichas Bilembambudín|~~Esclavos 3~~ Fichas Bilembambudín      |
+|2   |Continuar puntuación  |~~Sonido 3~~ Operaciones 1             |Esclavos Rev. Francesa|~~Reflexión del Lenguaje~~ Fichas Bilembambudín|~~Esclavos 3~~ Fichas Bilembambudín      |
 |3   |Educación Física      |Tarea y Operaciones   |Inglés                |Música                |Educación Física|
 |4   |Plástica              |Inglés                |Inglés                |Asamblea              |Tecnología      |
-|5   |Operaciones 1         |Bilembambudín         |Sonido 3              |Operaciones 1         |Operaciones 1   |
-|6   |Operaciones 1         |Bilembambudín         |Sonido 3              |Operaciones 1         |Operaciones 1   |
+|5   |Operaciones 1         |Bilembambudín         |~~Sonido 3~~ Operaciones 1              |Operaciones 1         |Operaciones 1   |
+|6   |Operaciones 1         |Bilembambudín         |~~Sonido 3~~ Operaciones 1             |Operaciones 1         |Operaciones 1   |
 
 
 

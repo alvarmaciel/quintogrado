@@ -50,9 +50,18 @@ Dedicaremos a este proyecto aproximadamente dos meses, Durante la semana tendrem
 ## Escritura de notas al pié
 1. Las notas al pié del capítulo 1 y 2 ¿Son palabras conocidad o inventadas por la autora?
 2. Buscar las notas al pie de los capítulos 1 y 2 y transcribirlos en tu carpeta
-## Fichas de personajes
-
-- Aldana
-  - Cómo es físicamente
-  - Cómo es su personalidad
-  
+## Fichas de hijos de Jeremías
+Vamos a escribir unas ficas con los datos de los hijos de Jeremías. Estas fichas nos van a servir después para hacer los juegos.
+1. Lectura del capítulo 3 (hasta Babilotiius) por parte del maestro con seguimiento por parte de los estudiantes.
+   1. Intercambio entre lectores
+	  - ¿Por qué se llamará así el capítulo?
+	  - ¿Cómo era la casa de Urdiola?
+	  - ¿Qué le pasaba a Gustaler?
+	  - ¿Cual era el problema de Babilotius?
+	  - ¿Cuáles son las claves que juntó Aldana?
+   2. Armado de las fichas: En parejas, armar las fichas de los hijos de Jeremías, en ellas tienen que incluir
+	  - [Nombre del hijo/a]
+	  - [Descripción que aparece en el título del apartado de cada hijo/a]
+	  - [Cómo es la casa/cómo es el hijo]
+	  - [Cuál es el problema o la ocupación del hijo/a]
+	  - [Clave]
