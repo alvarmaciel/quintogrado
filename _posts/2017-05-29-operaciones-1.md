@@ -5,7 +5,7 @@ author: Alvar maciel
 tags: [Matemáticas, secuencias]
 subtitle: Operaciones quinto grado
 category: proyectos
-date: 07-06-06
+date: 17-06-06
 ---
 **Índice**
 * TOC
