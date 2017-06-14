@@ -91,13 +91,14 @@ date: 2017-06-12
 ## Semana del 12 al 16 de Junio
 |Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes         |
 |:--:|:---------------------|:---------------------|:---------------------|:---------------------|:---------------|
-|1   |Operaciones 1         |Sonido 3              |Esclavos Rev. Mayos   |Reflexión del Lenguaje|Esclavos 3      |
-|2   |Operaciones 1         |Sonido 3              |Esclavos Rev. Mayo    |Reflexión del Lenguaje|Esclavos 3      |
-|3   |Educación Física      |Tarea y Operaciones   |Inglés                |Música                |Educación Física|
-|4   |Plástica              |Inglés                |Inglés                |Asamblea              |Tecnología      |
-|5   |Cierre fichas         |Bilembambudín cap 4   |Sonido 3              |Operaciones 1         |Operaciones 1   |
-|6   |Cierre fichas         |Bilembambudín cap 4   |Sonido 3              |Operaciones 1         |Operaciones 1   |
+|1   |Operaciones 1         |~~Sonido 3~~ Cierre ficha|~~Esclavos Rev. Mayo~~ Operaciones 1   |Reflexión del Lenguaje|Esclavos 3      |
+|2   |Operaciones 1         |~~Sonido 3~~ Cierre ficha|~~Esclavos Rev. Mayo~~ Operaciones 1   |Reflexión del Lenguaje|Esclavos 3      |
+|3   |Educación Física      |~~Tarea y Operaciones~~ Cierre Fichas   |~~Inglés~~ Afiches                |Música                |Educación Física|
+|4   |Plástica              |Inglés                |~~Inglés~~ Afiches                |Asamblea              |Tecnología      |
+|5   |Cierre fichas         |~~Bilembambudín cap 4~~ Cierre fichas   |~~Sonido 3~~              |Operaciones 1         |Operaciones 1   |
+|6   |Cierre fichas         |~~Bilembambudín cap 4~~ Cierre fichas   |~~Sonido 3~~              |Operaciones 1         |Operaciones 1   |
 
+Martes: se tornó importante terminar el trabajo de lectura del capítulo 3. Tomarnos el día leyendo permitió que algunos niños pudieran profundizar en la comprensión de lo que leen. Casi todos los estudiantes leen convencionalmente pero no pueden reponer lo que leyeron, en este sentido, la actividad permitió correrse de la lectura en busca de claves para responder algo puntual y pasaron a leer el fragmento, pensar en lo que leyeron y después armar las fichas. Esto fue posible, creo, por el tiempo en continuado dedicado a la actividad.
 
 
 ## Semana del 5 de al 9 de Junio
