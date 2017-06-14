@@ -89,6 +89,8 @@ date: 2017-06-12
 
 # Junio
 ## Semana del 12 al 16 de Junio
+
+
 |Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes         |
 |:--:|:---------------------|:---------------------|:---------------------|:---------------------|:---------------|
 |1   |Operaciones 1         |~~Sonido 3~~ Cierre ficha|~~Esclavos Rev. Mayo~~ Operaciones 1   |Reflexión del Lenguaje|Esclavos 3      |
