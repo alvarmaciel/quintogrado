@@ -6,7 +6,7 @@ tags: cronogramas
 subtitle: organización semanal
 category: cronogramas
 published: true
-date: 2017-06-12
+date: 2017-06-26
 ---
 
 **Índice**
@@ -88,6 +88,22 @@ date: 2017-06-12
 //-->
 
 # Junio
+## Semana del 26 al 30 de Junio
+
+|Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes|
+|:--:|:---------------------|:---------------------|:---------------------|:---------------------|:------|
+|1   |Capacitación          |Sonido 3              |Rev Francesa          |Bilembambudín         |Ref. Lenguaje|
+|2   |Capacitación          |Sonido 3              |Rev Francesa          |Bilembambudín         |Ref. Lenguaje|
+|3   |Capacitación          |Corrección y tarea    |Inglés                |Música                |Educación Física|
+|4   |Capacitación          |Inglés                |Inglés                |Asamblea              |Tecnología|
+|5   |Capacitación          |Bilembambudín 4       |Sonidos 3             |Operaciones 1         |Operaciones 1|
+|6   |Capacitación          |Bilembambudín 4       |Sonidos 3             |Operaciones 1         |Operaciones 1|
+
+## Semana del 19 al 23 de Junio
+
+Esta semana hubo feriado en el día Martes y durante estos días trabajamos un día en Prácticas del Lenguaje, un día en Matemáticas. Necesitabamos que el grado nivele y alcance como objetivo una escritura larga y profundiza en algorítmos multiplicativos.
+
+
 ## Semana del 12 al 16 de Junio
 
 

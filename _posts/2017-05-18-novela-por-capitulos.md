@@ -65,3 +65,19 @@ Vamos a escribir unas ficas con los datos de los hijos de Jeremías. Estas ficha
 	  - [Cómo es la casa/cómo es el hijo]
 	  - [Cuál es el problema o la ocupación del hijo/a]
 	  - [Clave]
+## Escribimos todo lo que le pasa a Aldana de camino a lo de Doña Naturalia
+Vamos a realizar una escritura extensa en equipos (3 a 4). Esto nos va a servir para saber que agregar al juego
+1. Lectura del capítulo 4 por parte del maestro con seguimiento por parte de los estudiantes.
+   1. Intercambio entr lectores
+	  - ¿Que le pasa a Aldana con los zapatos?
+	  - ¿A dónde la lleva el dragón?
+	  - ¿Cómo hace para descifrar la clave?
+	  - ¿Cómo hace para saber que roca es la que crece?
+	  - ¿Por qué tiene que hacer rimas?
+	  - ¿Puede entrar a ala casa, cómo?
+   2. Plan de escritura por dictado al mestro, se espera culminar con un afiche similar a este:
+	  - Zapatos
+	  - Viaje al campo
+	  - Descifrado de clave
+	  - Viaje a la casa de Doña Naturalia
+	  - Entrada en la casa de Doña Naturalia
