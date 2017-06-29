@@ -92,12 +92,12 @@ date: 2017-06-26
 
 |Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes|
 |:--:|:---------------------|:---------------------|:---------------------|:---------------------|:------|
-|1   |Capacitación          |Sonido 3              |Rev Francesa          |Bilembambudín         |Ref. Lenguaje|
-|2   |Capacitación          |Sonido 3              |Rev Francesa          |Bilembambudín         |Ref. Lenguaje|
-|3   |Capacitación          |Corrección y tarea    |Inglés                |Música                |Educación Física|
-|4   |Capacitación          |Inglés                |Inglés                |Asamblea              |Tecnología|
-|5   |Capacitación          |Bilembambudín 4       |Sonidos 3             |Operaciones 1         |Operaciones 1|
-|6   |Capacitación          |Bilembambudín 4       |Sonidos 3             |Operaciones 1         |Operaciones 1|
+|1   |Capacitación          |~~Sonido 3~~              |Operaciones 1         |Rev. Francesa         |Ref. Lenguaje|
+|2   |Capacitación          |~~Sonido 3~~              |Operaciones 1         |Rev. Francesa         |Ref. Lenguaje|
+|3   |Capacitación          |~~Corrección y tarea~~    |Inglés                |Música                |Educación Física|
+|4   |Capacitación          |~~Inglés~~                |Inglés                |Asamblea              |Tecnología|
+|5   |Capacitación          |~~Bilembambudín 4~~       |Juegos y juguetes     |Sonido                |Operaciones 1|
+|6   |Capacitación          |~~Bilembambudín 4~~       |Juegos y juguetes     |Sonido                |Operaciones 1|
 
 ## Semana del 19 al 23 de Junio
 
