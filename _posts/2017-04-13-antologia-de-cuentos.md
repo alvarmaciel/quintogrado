@@ -1,5 +1,5 @@
 ---
-layout: post
+layoutggg: post
 title: Antología de cuentos
 author: Alvar maciel
 tags: [prácticas del lenguaje, proyectos, cuentos]
