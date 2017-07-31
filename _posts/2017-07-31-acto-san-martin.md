@@ -27,4 +27,4 @@ category: proyectos
 
 ## Acto del 17 de Agosto
 
-Vamos a presentar el Juego, contar como lo hicimos, reprtir tableros para que jueguen en los grados
+Vamos a presentar el Juego, contar como lo hicimos, repartir tableros para que jueguen en los grados
