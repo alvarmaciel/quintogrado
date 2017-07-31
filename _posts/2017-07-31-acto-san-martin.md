@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Juego: Pasajes Revolucionarios
+title: Juego "Pasajes Revolucionarios"
 subtitle: La vida de San Martín
 author: Alvar maciel
 tags: [prácticas del lenguaje, proyectos, Ciencias Sociales]
