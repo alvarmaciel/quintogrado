@@ -87,6 +87,22 @@ date: 2017-06-26
 |6   |Matemáticas           |Prácticas del Lenguaje|C. Naturales          |Matemáticas           |Matemáticas|
 //-->
 
+# Julio-Agosto
+Las primeras semanas de Julio antes del Receso estuvieron signadas por conflictos en la escuela, principalmente con el tema de las ratas. Dimos clases en el comedor, lo que implicaba que no podíamos dar las clases como corresponde porque 4 grados estabamos en el mismo espacio. Aún así trabajamos profundizando en los problemas del campo multiplicativo, deteniendonos en los problemas vinculados con los sentidos de la división y su algoritmo (por aproximación). 
+
+## Semana del 31 al 4 de agosto
+
+|Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes|
+|:--:|:---------------------|:---------------------|:---------------------|:---------------------|:------|
+|1   |PARO                  |correción actividades para el receso |Operaciones 2         |Pasajes revolucionarios|Ref. Lenguaje|
+|2   |PARO                  |correción actividades para el receso |Operaciones 2         |Pasajes revolucionario |Ref. Lenguaje|
+|3   |PARO                  |correción actividades para el receso |Inglés                |Música                 |Educación Física|
+|4   |PARO                  |correción actividades para el receso |Inglés                |Asamblea               |Tecnología|
+|5   |PARO                  |correción actividades para el receso |Juegos y juguetes     |Bilembambudín          |Operaciones 2|
+|6   |PARO                  |correción actividades para el receso |Juegos y juguetes     |Bilembambudín          |Operaciones 2|
+
+
+
 # Junio
 ## Semana del 26 al 30 de Junio
 
