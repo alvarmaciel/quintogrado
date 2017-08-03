@@ -89,17 +89,31 @@ date: 2017-07-31
 
 # Julio-Agosto
 Las primeras semanas de Julio antes del Receso estuvieron signadas por conflictos en la escuela, principalmente con el tema de las ratas. Dimos clases en el comedor, lo que implicaba que no podíamos dar las clases como corresponde porque 4 grados estabamos en el mismo espacio. Aún así trabajamos profundizando en los problemas del campo multiplicativo, deteniendonos en los problemas vinculados con los sentidos de la división y su algoritmo (por aproximación). 
+## Pendientes Matemática
 
+### Números y Operaciones
+
+- [ ] Resolución de problemas que impliquen el uso del múltiplos y divisores.
+- [ ] Definición de múltiplo y divisor de un número. De multiplo común y de divisor común.
+- [ ] Resolución de problemas que apelen a diferentes funcionamientos de las fracciones: repartos, medidas y particiones.
+- [ ] Relaciones entre medios cuartos y octavos; tercios, sextos y doceavos; quintos y décimos.
+
+### Geometría
+
+- [ ] Reproducción de figuras con lados rectos y arcos de circunferencia utilizando escuadra, regla y compás.
+- [ ] Puntos que cumplen ciertas condiciones. Propiedad de los lados de los triángulos.
+- [ ] Propiedad de la suma de los ángulos interiores de los triángulos.
+- [ ] Construciones de triángulos con regla, compás y transportador, a partir de diferentes informaciones. 
 ## Semana del 31 al 4 de agosto
 
 |Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes|
 |:--:|:---------------------|:---------------------|:---------------------|:---------------------|:------|
-|1   |PARO                  |correción actividades para el receso |Operaciones 2         |Pasajes revolucionarios|Ref. Lenguaje|
-|2   |PARO                  |correción actividades para el receso |Operaciones 2         |Pasajes revolucionario |Ref. Lenguaje|
+|1   |PARO                  |correción actividades para el receso |~~Operaciones 2~~ Terminamos corrección|Sit Prob.|Ref. Lenguaje|
+|2   |PARO                  |correción actividades para el receso |~~Operaciones 2~~ Tecnología|Rev Mayo Manual|Ref. Lenguaje|
 |3   |PARO                  |correción actividades para el receso |Inglés                |Música                 |Educación Física|
-|4   |PARO                  |correción actividades para el receso |Inglés                |Asamblea               |Tecnología|
-|5   |PARO                  |correción actividades para el receso |Juegos y juguetes     |Bilembambudín          |Operaciones 2|
-|6   |PARO                  |correción actividades para el receso |Juegos y juguetes     |Bilembambudín          |Operaciones 2|
+|4   |PARO                  |correción actividades para el receso |Inglés                |Biblioteca|Video San Martín|
+|5   |PARO                  |correción actividades para el receso |~~Juegos y juguetes~~ Sit Problemática|Bilembambudín          |Operaciones 2|
+|6   |PARO                  |correción actividades para el receso |~~Juegos y juguete~~ Tarea|Bilembambudín          |Operaciones 2|
 
 
 
