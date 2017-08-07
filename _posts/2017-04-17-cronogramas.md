@@ -104,6 +104,21 @@ Las primeras semanas de Julio antes del Receso estuvieron signadas por conflicto
 - [ ] Puntos que cumplen ciertas condiciones. Propiedad de los lados de los triángulos.
 - [ ] Propiedad de la suma de los ángulos interiores de los triángulos.
 - [ ] Construciones de triángulos con regla, compás y transportador, a partir de diferentes informaciones. 
+
+## Semana del 7 al 11  de agosto
+
+La semana pasada no pude llevar a cabo del todo bien la planificación, nos detuvimos en matemáticas todos los días
+
+|Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes|
+|:--:|:---------------------|:---------------------|:---------------------|:---------------------|:------|
+|1   |Bilembambudín         |Toma de notas video   |Armado de tablero     |Toma de notas         |Postas juego |
+|2   |Bilembambudín         |Toma de notas video   |Armado de tableros    |Toma de notas         |Postas juego |
+|3   |Educ. Física          |Toma de notas video   |Inglés                |Música                |Educación Física|
+|4   |Plastica              |Inglés                |Inglés                |Biblioteca            |Postas juego    |
+|5   |Tecnología            |Refl. sobre lenguaje  |Armado de tableros    |Toma de notas         |Operaciones 2|
+|6   |Operaciones 2         |Refl. sobre lenguaje  |Armado de tableros    |Toma de notas         |Operaciones 2|
+
+
 ## Semana del 31 al 4 de agosto
 
 |Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes|
