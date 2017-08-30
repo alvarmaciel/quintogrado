@@ -87,23 +87,27 @@ date: 2017-07-31
 |6   |Matemáticas           |Prácticas del Lenguaje|C. Naturales          |Matemáticas           |Matemáticas|
 //-->
 
+
 # Julio-Agosto
 Las primeras semanas de Julio antes del Receso estuvieron signadas por conflictos en la escuela, principalmente con el tema de las ratas. Dimos clases en el comedor, lo que implicaba que no podíamos dar las clases como corresponde porque 4 grados estabamos en el mismo espacio. Aún así trabajamos profundizando en los problemas del campo multiplicativo, deteniendonos en los problemas vinculados con los sentidos de la división y su algoritmo (por aproximación). 
 ## Pendientes Matemática
 
 ### Números y Operaciones
 
-- [ ] Resolución de problemas que impliquen el uso del múltiplos y divisores.
-- [ ] Definición de múltiplo y divisor de un número. De multiplo común y de divisor común.
+- [x] Resolución de problemas que impliquen el uso del múltiplos y divisores.
+- [x] Definición de múltiplo y divisor de un número. De multiplo común y de divisor común.
 - [ ] Resolución de problemas que apelen a diferentes funcionamientos de las fracciones: repartos, medidas y particiones.
 - [ ] Relaciones entre medios cuartos y octavos; tercios, sextos y doceavos; quintos y décimos.
 
 ### Geometría
 
-- [ ] Reproducción de figuras con lados rectos y arcos de circunferencia utilizando escuadra, regla y compás.
+- [x] Reproducción de figuras con lados rectos y arcos de circunferencia utilizando escuadra, regla y compás.
 - [ ] Puntos que cumplen ciertas condiciones. Propiedad de los lados de los triángulos.
 - [ ] Propiedad de la suma de los ángulos interiores de los triángulos.
 - [ ] Construciones de triángulos con regla, compás y transportador, a partir de diferentes informaciones. 
+
+## Semanas del 14 al 31 de agosto
+Estas semanas trabajé por objetivos, desarmando el horario, pude avanzar en algunos temas. A partir de Septiembre sigo trabjando por horarios
 
 ## Semana del 7 al 11  de agosto
 
