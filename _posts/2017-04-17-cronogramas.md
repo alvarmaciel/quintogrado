@@ -88,6 +88,36 @@ date: 2017-07-31
 //-->
 
 
+# Septiembre
+## Pendientes
+
+### Números y Operaciones
+- [ ] Resolución de problemas que apelen a diferentes funcionamientos de las fracciones: repartos, medidas y particiones.
+- [ ] Relaciones entre medios cuartos y octavos; tercios, sextos y doceavos; quintos y décimos.
+
+### Geometría
+- [ ] Puntos que cumplen ciertas condiciones. Propiedad de los lados de los triángulos.
+- [ ] Propiedad de la suma de los ángulos interiores de los triángulos.
+- [ ] Construciones de triángulos con regla, compás y transportador, a partir de diferentes informaciones. 
+
+### Proyectos
+
+- [ ] Terminar el juego de San Martin
+- [ ] Bocetar el de bilembambudin
+
+## Semana del 4 al 8 de Septiembre
+
+|Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes|
+|:--:|:---------------------|:---------------------|:---------------------|:---------------------|:------|
+|1   |Reflex. Sobre el leng.|ESI. Como nos tratamos|Repaso Pausa Mat.     |Pausa Matemáticas     |Uniones y desuniones |
+|2   |Reflex. Sobre el leng.|ESI. Como nos tratamos|Repaso Pausa Mat.     |Pausa Matemáticas     |Uniones y desuniones |
+|3   |Educ. Física          |Geometría Constr.     |Inglés                |Música                |Educación Física|
+|4   |Plastica              |Inglés                |Inglés                |Biblioteca            |Resolución de problemas que impliquen el uso del múltiplos y divisores.|
+|5   |Tecnología            |Postas de juego Bilembambudin|ESI Como nos tratamos |[La oracion-frase-palabra](https://alvarmaciel.github.io/quintogrado/planianual/2017/04/25/reflexion-sobre-el-lenguaje.html#la-oraci%C3%B3n---la-frase---la-palabra)|Resolución de problemas que impliquen el uso del múltiplos y divisores.|
+|6   |DD:HH                 |Postas de juego Bilembambudin|ESI Como nos tratamos |[La oracion-frase-palabra](https://alvarmaciel.github.io/quintogrado/planianual/2017/04/25/reflexion-sobre-el-lenguaje.html#la-oraci%C3%B3n---la-frase---la-palabra)|Resolución de problemas que impliquen el uso del múltiplos y divisores.|
+
+
+
 # Julio-Agosto
 Las primeras semanas de Julio antes del Receso estuvieron signadas por conflictos en la escuela, principalmente con el tema de las ratas. Dimos clases en el comedor, lo que implicaba que no podíamos dar las clases como corresponde porque 4 grados estabamos en el mismo espacio. Aún así trabajamos profundizando en los problemas del campo multiplicativo, deteniendonos en los problemas vinculados con los sentidos de la división y su algoritmo (por aproximación). 
 ## Pendientes Matemática
