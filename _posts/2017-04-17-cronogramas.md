@@ -109,12 +109,12 @@ date: 2017-07-31
 
 |Hora|Lunes                 |Martes                |Miércoles             |Jueves                |Viernes|
 |:--:|:---------------------|:---------------------|:---------------------|:---------------------|:------|
-|1   |Reflex. Sobre el leng.|ESI. Como nos tratamos|Repaso Pausa Mat.     |Pausa Matemáticas     |Uniones y desuniones |
-|2   |Reflex. Sobre el leng.|ESI. Como nos tratamos|Repaso Pausa Mat.     |Pausa Matemáticas     |Uniones y desuniones |
+|1   |Reflex. Sobre el leng.|ESI. Cómo nos tratamos|Repaso Pausa Mat.     |Pausa Matemáticas     |Uniones y desuniones |
+|2   |Reflex. Sobre el leng.|ESI. Cómo nos tratamos|Repaso Pausa Mat.     |Pausa Matemáticas     |Uniones y desuniones |
 |3   |Educ. Física          |Geometría Constr.     |Inglés                |Música                |Educación Física|
 |4   |Plastica              |Inglés                |Inglés                |Biblioteca            |Resolución de problemas que impliquen el uso del múltiplos y divisores.|
-|5   |Tecnología            |Postas de juego Bilembambudin|ESI Como nos tratamos |[La oracion-frase-palabra](https://alvarmaciel.github.io/quintogrado/planianual/2017/04/25/reflexion-sobre-el-lenguaje.html#la-oraci%C3%B3n---la-frase---la-palabra)|Resolución de problemas que impliquen el uso del múltiplos y divisores.|
-|6   |DD:HH                 |Postas de juego Bilembambudin|ESI Como nos tratamos |[La oracion-frase-palabra](https://alvarmaciel.github.io/quintogrado/planianual/2017/04/25/reflexion-sobre-el-lenguaje.html#la-oraci%C3%B3n---la-frase---la-palabra)|Resolución de problemas que impliquen el uso del múltiplos y divisores.|
+|5   |Tecnología            |Postas de juego Bilembambudin|ESI Cómo nos tratamos |[La oracion-frase-palabra](https://alvarmaciel.github.io/quintogrado/planianual/2017/04/25/reflexion-sobre-el-lenguaje.html#la-oraci%C3%B3n---la-frase---la-palabra)|Resolución de problemas que impliquen el uso del múltiplos y divisores.|
+|6   |DD:HH                 |Postas de juego Bilembambudin|ESI Cómo nos tratamos |[La oracion-frase-palabra](https://alvarmaciel.github.io/quintogrado/planianual/2017/04/25/reflexion-sobre-el-lenguaje.html#la-oraci%C3%B3n---la-frase---la-palabra)|Resolución de problemas que impliquen el uso del múltiplos y divisores.|
 
 
 
