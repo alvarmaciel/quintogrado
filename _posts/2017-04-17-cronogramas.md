@@ -109,8 +109,8 @@ date: 2017-07-31
 
 |Hora|Lunes                 |Martes                                        |Miércoles             |Jueves                |Viernes|
 |:--:|:---------------------|:---------------------------------------------|:---------------------|:---------------------|:------|
-|1   |Feriado               |Resolución de problemas Multiplos y Divisores |C. Sociales           |Prácticas del Lenguaje|El Inv de Juegos|
-|2   |Feriado               |Acto Sarmieto                                 |C. Sociales           |Prácticas del Lenguaje|El inv de Juegos|
+|1   |Feriado               |Resolución de problemas Multiplos y Divisores |C. Sociales           |Refl. Ort. Agudas     |El Inv de Juegos|
+|2   |Feriado               |Acto Sarmieto                                 |C. Sociales           |Refl. Ort. Agudas     |El inv de Juegos|
 |3   |Feriado               |Resolución de problemas Multiplos y Divisores |Inglés                |Música                |Educación Física|
 |4   |Feriado               |Inglés                                        |Inglés                |Asamblea              |Geometría|
 |5   |Feriado               |Postas Bilembambudín                          |Cómo nos tratamos     |Problemas Mult. Div   |Geometría  |
