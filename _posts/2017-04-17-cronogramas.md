@@ -82,8 +82,8 @@ date: 2017-07-31
 |1   |Prácticas del Lenguaje|C. Naturales          |C. Sociales           |Prácticas del Lenguaje|C. Sociales|
 |2   |Prácticas del Lenguaje|C. Naturales          |C. Sociales           |Prácticas del Lenguaje|C. Sociales|
 |3   |Educación Física      |Matemáticas           |Inglés                |Música                |Educación Física|
-|4   |Plástica              |Inglés                |Inglés                |Asamblea              |Tecnología|
-|5   |Matemáticas           |Prácticas del Lenguaje|C. Naturales          |Matemáticas           |Matemáticas|
+|4   |Plástica              |Inglés                |Inglés                |Asamblea              |Matemáticas|
+|5   |Tecnología            |Prácticas del Lenguaje|C. Naturales          |Matemáticas           |Matemáticas|
 |6   |Matemáticas           |Prácticas del Lenguaje|C. Naturales          |Matemáticas           |Matemáticas|
 //-->
 
@@ -104,6 +104,17 @@ date: 2017-07-31
 
 - [ ] Terminar el juego de San Martin
 - [ ] Bocetar el de bilembambudin
+
+## Semana del 12 al 15 de Septiembre
+
+|Hora|Lunes                 |Martes                                        |Miércoles             |Jueves                |Viernes|
+|:--:|:---------------------|:---------------------------------------------|:---------------------|:---------------------|:------|
+|1   |Feriado               |Resolución de problemas Multiplos y Divisores |C. Sociales           |Prácticas del Lenguaje|El Inv de Juegos|
+|2   |Feriado               |Acto Sarmieto                                 |C. Sociales           |Prácticas del Lenguaje|El inv de Juegos|
+|3   |Feriado               |Resolución de problemas Multiplos y Divisores |Inglés                |Música                |Educación Física|
+|4   |Feriado               |Inglés                                        |Inglés                |Asamblea              |Geometría|
+|5   |Feriado               |Postas Bilembambudín                          |Cómo nos tratamos     |Problemas Mult. Div   |Geometría  |
+|6   |Feriado               |Postas Bilembambidín                          |Cómo nos tratamos     |Problemas Mult. Div   |Geometría  |
 
 ## Semana del 4 al 8 de Septiembre
 
