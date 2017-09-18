@@ -98,12 +98,25 @@ date: 2017-07-31
 ### Geometría
 - [ ] Puntos que cumplen ciertas condiciones. Propiedad de los lados de los triángulos.
 - [ ] Propiedad de la suma de los ángulos interiores de los triángulos.
-- [ ] Construciones de triángulos con regla, compás y transportador, a partir de diferentes informaciones. 
+- [ ] Construciones de triángulos con regla, compás y transportador, a partir de diferentes informaciones.
 
 ### Proyectos
 
 - [ ] Terminar el juego de San Martin
 - [ ] Bocetar el de bilembambudin
+
+## Semana del 18 al 22 de Septiembre
+
+
+|Hora|Lunes                 |Martes                                        |Miércoles             |Jueves                |Viernes|
+|:--:|:---------------------|:---------------------------------------------|:---------------------|:---------------------|:------|
+|1   |Cómo nos tratamos     |Refl. Ort. Agudas                             |C. Sociales           |Inventor de Juegos     |El Inv de Juegos|
+|2   |Cómo nos tratamos     |Refl. Ort. Agudas                             |C. Sociales           |Inventor de Juegos     |El inv de Juegos|
+|3   |Educación Física      |Resolución de problemas                       |Inglés                |Música                |Educación Física|
+|4   |Plastica              |Inglés                                        |Inglés                |Asamblea              |Geometría|
+|5   |Tecnología            |Postas Bilembambudín / Inventor de Juegos     |Los cuidados que necesitamos|Problemas Mult. Div   |Geometría  |
+|6   |Postas Bilembambudín  |Postas Bilembambidín / Inventor de Juegos     |Los cuidados que necesitamos|Problemas Mult. Div   |Geometría  |
+
 
 ## Semana del 12 al 15 de Septiembre
 
@@ -130,7 +143,7 @@ date: 2017-07-31
 
 
 # Julio-Agosto
-Las primeras semanas de Julio antes del Receso estuvieron signadas por conflictos en la escuela, principalmente con el tema de las ratas. Dimos clases en el comedor, lo que implicaba que no podíamos dar las clases como corresponde porque 4 grados estabamos en el mismo espacio. Aún así trabajamos profundizando en los problemas del campo multiplicativo, deteniendonos en los problemas vinculados con los sentidos de la división y su algoritmo (por aproximación). 
+Las primeras semanas de Julio antes del Receso estuvieron signadas por conflictos en la escuela, principalmente con el tema de las ratas. Dimos clases en el comedor, lo que implicaba que no podíamos dar las clases como corresponde porque 4 grados estabamos en el mismo espacio. Aún así trabajamos profundizando en los problemas del campo multiplicativo, deteniendonos en los problemas vinculados con los sentidos de la división y su algoritmo (por aproximación).
 ## Pendientes Matemática
 
 ### Números y Operaciones
@@ -145,7 +158,7 @@ Las primeras semanas de Julio antes del Receso estuvieron signadas por conflicto
 - [x] Reproducción de figuras con lados rectos y arcos de circunferencia utilizando escuadra, regla y compás.
 - [ ] Puntos que cumplen ciertas condiciones. Propiedad de los lados de los triángulos.
 - [ ] Propiedad de la suma de los ángulos interiores de los triángulos.
-- [ ] Construciones de triángulos con regla, compás y transportador, a partir de diferentes informaciones. 
+- [ ] Construciones de triángulos con regla, compás y transportador, a partir de diferentes informaciones.
 
 ## Semanas del 14 al 31 de agosto
 Estas semanas trabajé por objetivos, desarmando el horario, pude avanzar en algunos temas. A partir de Septiembre sigo trabjando por horarios
