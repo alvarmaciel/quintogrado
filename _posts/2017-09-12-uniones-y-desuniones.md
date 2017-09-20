@@ -28,4 +28,5 @@ En sus intentos por construir un estado centralizado, diferentes grupos sociales
 1. Línea de tiempo
 2. Lectura del [guión del video](assets/GuionHistoriaDeLosPartidosPoliticos.md) y cronología
 3. Lectura del guión del video y cuadro de personajes releventes
+5. Mapeo de los cambios territoriales y las alternaciones políticas
 4. Escritura de biografías
