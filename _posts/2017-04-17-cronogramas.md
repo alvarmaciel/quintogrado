@@ -6,7 +6,7 @@ tags: cronogramas
 subtitle: organización semanal
 category: cronogramas
 published: true
-date: 2017-07-31
+date: 2017-09-21
 ---
 
 **Índice**
