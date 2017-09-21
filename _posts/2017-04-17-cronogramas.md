@@ -108,14 +108,14 @@ date: 2017-07-31
 ## Semana del 18 al 22 de Septiembre
 
 
-|Hora|Lunes                 |Martes                                        |Miércoles             |Jueves                |Viernes|
-|:--:|:---------------------|:---------------------------------------------|:---------------------|:---------------------|:------|
-|1   |Cómo nos tratamos     |Refl. Ort. Agudas                             |C. Sociales           |Inventor de Juegos     |El Inv de Juegos|
-|2   |Cómo nos tratamos     |Refl. Ort. Agudas                             |C. Sociales           |Inventor de Juegos     |El inv de Juegos|
-|3   |Educación Física      |Resolución de problemas                       |Inglés                |Música                |Educación Física|
-|4   |Plastica              |Inglés                                        |Inglés                |Asamblea              |Geometría|
-|5   |Tecnología            |Postas Bilembambudín / Inventor de Juegos     |Los cuidados que necesitamos|Problemas Mult. Div   |Geometría  |
-|6   |Postas Bilembambudín  |Postas Bilembambidín / Inventor de Juegos     |Los cuidados que necesitamos|Problemas Mult. Div   |Geometría  |
+|Hora|Lunes                 |Martes                                        |Miércoles                                           |Jueves                |Viernes|
+|:--:|:---------------------|:---------------------------------------------|:---------------------------------------------------|:---------------------|:------|
+|1   |Cómo nos tratamos     |Refl. Ort. Agudas                             |~~C. Sociales~~ Como nos tratamos (CNT)             |~~Inventor de Juegos~~ CNT Agenda Asamblea    |El Inv de Juegos|
+|2   |Cómo nos tratamos     |Refl. Ort. Agudas                             |~~C. Sociales~~ Como nos tratamos                   |~~Inventor de Juegos~~ Tarea    |El inv de Juegos|
+|3   |Educación Física      |Resolución de problemas                       |Inglés                                              |Música                |Educación Física|
+|4   |Plastica              |Inglés                                        |Inglés                                              |Asamblea              |Geometría|
+|5   |Tecnología            |Postas Bilembambudín / Inventor de Juegos     |~~Los cuidados que necesitamos~~ Inventor de Juegos |Problemas Mult. Div   |Geometría  |
+|6   |Postas Bilembambudín  |Postas Bilembambidín / Inventor de Juegos     |~~Los cuidados que necesitamos~~ Inventor de Juegos |Problemas Mult. Div   |Geometría  |
 
 
 ## Semana del 12 al 15 de Septiembre
