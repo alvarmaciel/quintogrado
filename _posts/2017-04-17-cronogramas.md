@@ -105,6 +105,19 @@ date: 2017-09-21
 - [ ] Terminar el juego de San Martin
 - [ ] Bocetar el de bilembambudin
 
+## Semana del 25 al 30 de Septiembre
+
+
+|Hora|Lunes                 |Martes                                        |Miércoles                                           |Jueves                |Viernes|
+|:--:|:---------------------|:---------------------------------------------|:---------------------------------------------------|:---------------------|:------|
+|1   |Palabras graves       |Los cuidados que necesitamos                  |pausa evaluativa matemática                         |Unitarios y federales |El Inv de Juegos|
+|2   |Palabras graves       |Los cuidados que necesitamos                  |pausa evaluativa matemática                         |Unitarios y federales |El inv de Juegos|
+|3   |Educación Física      |Resolución de problemas                       |Inglés                                              |Música                |Educación Física|
+|4   |Plastica              |Inglés                                        |Inglés                                              |Asamblea              |Geometría|
+|5   |Tecnología            |Inventor de Juegos                            |  Los cuidados que necesitamos                      |Racionales 1          |Geometría  |
+|6   |Tipos de triángulos   |Inventor de Juegos                            |  Los cuidados que necesitamos                      |Racionales 1          |Geometría  |
+
+
 ## Semana del 18 al 22 de Septiembre
 
 
