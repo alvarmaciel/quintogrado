@@ -18,7 +18,7 @@ image: /img/bilembambudin.jpg
 
 Este es un proyecto en el cual nos embarcamos para leer una novela por capítulos contando con un ejemplar por estudiante con el objetivo de:
 - Leer novelas
-- Usar los recursos de la litaruta para diseñar un juego
+- Usar los recursos de la literatura para diseñar un juego
 
 Para llevar a cabo este proyecto recurriremos a los libros existentes en la biblioteca de la escuela.
 
