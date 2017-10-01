@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: Cronogramas
@@ -87,6 +88,21 @@ date: 2017-09-21
 |6   |Matemáticas           |Prácticas del Lenguaje|C. Naturales          |Matemáticas           |Matemáticas|
 //-->
 
+# Octubre
+
+## Semana 2 al 6 de Octubre
+
+
+|Hora|Lunes                 |Martes                                        |Miércoles                                           |Jueves                |Viernes|
+|:--:|:---------------------|:---------------------------------------------|:---------------------------------------------------|:---------------------|:------|
+|1   |Palabras Esdrújulas   |Los cuidados que necesitamos                  |Salida Didactica Biblioteca Jav. Villafañe          |Salida al Colón       |El Inv de Juegos|
+|2   |Palabras Esdrújulas   |Los cuidados que necesitamos                  |Salida Didactica Biblioteca Jav. Villafañ           |Salida al Colón       |El inv de Juegos|
+|3   |Educación Física      |Resolución de problemas                       |Inglés                                              |~~Música~~ Salida al Colón|Educación Física|
+|4   |Plastica              |Inglés                                        |Inglés                                              |Asamblea              |Geometría|
+|5   |Tecnología            |Inventor de Juegos                            |preparación salida didáctica                      |Salida al Colón       |Geometría  |
+|6   |Tipos de triángulos   |Inventor de Juegos                            |preparación salida didáctica                      |Salida al Colón       |Geometría  |
+
+
 
 # Septiembre
 ## Pendientes
@@ -102,20 +118,22 @@ date: 2017-09-21
 
 ### Proyectos
 
-- [ ] Terminar el juego de San Martin
-- [ ] Bocetar el de bilembambudin
+- [X] Terminar el juego de San Martin
+- [X] Bocetar el de bilembambudin
+
+
 
 ## Semana del 25 al 30 de Septiembre
 
 
 |Hora|Lunes                 |Martes                                        |Miércoles                                           |Jueves                |Viernes|
 |:--:|:---------------------|:---------------------------------------------|:---------------------------------------------------|:---------------------|:------|
-|1   |Palabras graves       |Los cuidados que necesitamos                  |pausa evaluativa matemática                         |Unitarios y federales |El Inv de Juegos|
-|2   |Palabras graves       |Los cuidados que necesitamos                  |pausa evaluativa matemática                         |Unitarios y federales |El inv de Juegos|
-|3   |Educación Física      |Resolución de problemas                       |Inglés                                              |Música                |Educación Física|
-|4   |Plastica              |Inglés                                        |Inglés                                              |Asamblea              |Geometría|
-|5   |Tecnología            |Inventor de Juegos                            |  Los cuidados que necesitamos                      |Racionales 1          |Geometría  |
-|6   |Tipos de triángulos   |Inventor de Juegos                            |  Los cuidados que necesitamos                      |Racionales 1          |Geometría  |
+|1   |Palabras graves       |Los cuidados que necesitamos                  |pausa evaluativa matemática                         |~~Unitarios y federales~~ Jornada |El Inv de Juegos|
+|2   |Palabras graves       |Los cuidados que necesitamos                  |pausa evaluativa matemática                         |~~Unitarios y federales~~ Jornada |El inv de Juegos|
+|3   |Educación Física      |Resolución de problemas                       |Inglés                                              |~~Música~~ Jornada                |Educación Física|
+|4   |Plastica              |Inglés                                        |Inglés                                              |~~Asamblea~~ Jornada              |Geometría|
+|5   |Tecnología            |Inventor de Juegos                            |  Los cuidados que necesitamos                      |~~Racionales 1~~ Jornada          |Geometría  |
+|6   |Tipos de triángulos   |Inventor de Juegos                            |  Los cuidados que necesitamos                      |~~Racionales 1~~ Jornada          |Geometría  |
 
 
 ## Semana del 18 al 22 de Septiembre
