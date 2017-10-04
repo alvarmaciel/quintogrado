@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Cronogramas
@@ -7,7 +6,7 @@ tags: cronogramas
 subtitle: organización semanal
 category: cronogramas
 published: true
-date: 2017-09-21
+date: 2017-10-2
 ---
 
 **Índice**
