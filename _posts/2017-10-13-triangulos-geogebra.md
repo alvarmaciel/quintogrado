@@ -5,7 +5,7 @@ subtitle: Geometría
 author: Alvar Maciel
 tags: [Matemáticas, secuencias ]
 category: proyectos
-published: true	
+published: false	
 ---
 
 **Índice**
