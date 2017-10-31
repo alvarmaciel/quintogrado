@@ -6,7 +6,7 @@ tags: cronogramas
 subtitle: organización semanal
 category: cronogramas
 published: true
-date: 2017-10-2
+date: 2017-10-30
 ---
 
 **Índice**
@@ -87,7 +87,28 @@ date: 2017-10-2
 |6   |Matemáticas           |Prácticas del Lenguaje|C. Naturales          |Matemáticas           |Matemáticas|
 //-->
 
+# Noviembre
+
+## Semana del 30 al 03 
+
+|Hora|Lunes                                        |Martes                              |Miércoles             |Jueves                |Viernes|
+|:--:|:--------------------------------------------|:-----------------------------------|:---------------------|:---------------------|:------|
+|1   |Sujeto y predicado 1                         |ESI Poder hablar de nuestros cambios|Uniones y Desuniones  |Inv. de juegos Lectura|Uniones  y desuniones|
+|2   |Sujeto y predicado 1                         |ESI Poder hablar de nuestros cambios|Uniones y Desuniones  |Inv. de juegos Lectura|Uniones y desuniones|
+|3   |~~Educación Física~~ Sujeto y predicado 1    |Racionales en fig. geom.            |Inglés                |Música                |Educación Física|
+|4   |~~Plástica~~ Sujeto y predicado 1            |Inglés                              |Inglés                |Biblioteca            |Geometría. Triángulos|
+|5   |~~Tecnología~~ Escritura extensa (Estado FB) |Racionales en fig. geom.            |ESI Cambios           |Racionales            |Geometría Triángulos|
+|6   |~~Matemáticas~~ Escritura extensa (Estado FB)|Racionales en fig. geom.            |ESI Cambios           |Racionales            |Geometría Triángulos|
+
+
 # Octubre
+
+No pude cargar los cronogramas de las últimas 2 3 semanas pero:
+
+- Avanzamos con Racionales
+- Implementámos la identificación de "consigna y datos" antes de resolver problemas y mejoró en general la situación
+- Avanzamos en el reconocimiento de verbos y la identificación de sujetoy predicado
+- En ESI llegamos a el desarrollo de nuestro cuerpo
 
 ## Semana 2 al 6 de Octubre
 
