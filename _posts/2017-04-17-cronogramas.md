@@ -6,7 +6,7 @@ tags: cronogramas
 subtitle: organización semanal
 category: cronogramas
 published: true
-date: 2017-10-30
+date: 2017-11-05
 ---
 
 **Índice**
@@ -88,6 +88,17 @@ date: 2017-10-30
 //-->
 
 # Noviembre
+## Semana del 6 al 10
+
+|Hora|Lunes                                        |Martes                              |Miércoles                 |Jueves                |Viernes|
+|:--:|:--------------------------------------------|:-----------------------------------|:-------------------------|:---------------------|:------|
+|1   |Sujeto y predicado 2                         |ESI Poder hablar de nuestros cambios|Uniones y Desuniones Mapa |Revisión estados FB   |Uniones  y desuniones cronograma|
+|2   |Sujeto y predicado 2                         |ESI Poder hablar de nuestros cambios|Uniones y Desuniones Mapa |Revisión estados FB   |Uniones y desuniones cronograma|
+|3   |Educación                                    |Racionales                          |Inglés                    |Música                |Educación Física|
+|4   |~~Plástica~~ Sujeto y predicado 2            |Inglés                              |Inglés                    |Biblioteca            |Geometría. Triángulos|
+|5   |~~Tecnología~~ Escritura extensa (Estado FB) |El inventor de juegos lectura       |ESI Cambios               |Racionales            |Geometría Triángulos|
+|6   |Tarea Matemáticas                            |El inventor de juegos lectura       |ESI Cambios               |Racionales            |Geometría Triángulos|
+
 
 ## Semana del 30 al 03 
 
