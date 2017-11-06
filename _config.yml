@@ -8,6 +8,8 @@ baseurl: "/quintogrado"# ""
 header-img: img/trenes.jpg
 headercolor: "#FFFFFF"
 logo: #/img/espiral.png #/pruebapp/img/logos/Project-Pages-New-Logo-Inverted.png
+permalink: /:title/
+
 
 # Tertiary Parameters
 github_username:  alvarmaciel

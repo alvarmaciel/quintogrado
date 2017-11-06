@@ -1,0 +1,27 @@
+* El texto
+** NIVEL DE LAS MACROESTRUCTURAS TEXTUALES
+- Referencia y correferencia.
+- Progresión temática.
+- Estrategias de cohesión: sustitución pronominal: anáforas y catáforas. Sustitución lexical: sinónimos, paráfrasis... Nominalizaciones: sustantivos abstractos. Definitivización: indefinidos/definidos.
+- Relaciones semánticas entre palabras: sinónimos, antónimos, hipónimos, hipernóminos...
+- Alternancia de distintas categorías de verbos en las diversas tramas de los textos: verbos de evento, verbos estativos, verbos declarativos, verbos introductorios, verbos de vida interior...
+- Conectores y organizadores textuales. Recursos lingüísticos que expresan relaciones lógicas: causalidad, consecuencia, disyunción, conjunción, concesión, condición. Conectores argumentativos.
+- Determinación: artículos, determinantes, demostrativos.
+- Signos de puntuación como demarcadores textuales.
+** NIVEL DE LAS MICROESTRUCTURAS TEXTUALES : LA ORACIÓN , LA FRASE , LA PALABRA
+- Relaciones semántico-sintácticas vinculadas a la referencia y la predicación: La oración. Sujeto/predicado.
+- Relaciones semántico-sintácticas vinculadas a la expansión o la reducción de la información: núcleos y modificadores.
+- Relaciones semántico-sintácticas vinculadas a la subordinación y la coordinación entre distintos elementos oracionales.
+- Signos de puntuación como demarcadores de construcciones intra-oracionales.
+- Las clases de palabras como distintos modos de aprehender la realidad. Capacidad designativa del lenguaje.
+- Las clases de palabras como clases funcionales.
+- Estructura interna de las palabras.
+
+** Contenidos trabajados
+- [ ] Concordancia sujeto-verbo.
+- [ ] Oraciones bimembres: sujeto simple-sujeto compuesto. Predicado verbal simple-predicado verbal compuesto.
+- [ ] Núcleos –sustantivos, adjetivos, verbos– y sus modificadores.
+- [ ] Modificadores del núcleo del sujeto.
+- [ ] Sustantivo-adjetivo.
+- [ ] El género.
+- [ ] 
