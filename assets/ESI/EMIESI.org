@@ -1,0 +1,50 @@
+#+TITLE: Un proyecto de ESI en Quinto
+#+AUTHOR:  @amaciel | alvarmaciel@gmail.com
+#+EMAIL: alvarmaciel@gmail.com
+ 
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
+#+OPTIONS: toc:1
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+
+* Educación Sexual Integral
+- 5° Grado
+- 17 chicas y 14 chicos
+** Proyecto:
+Proyecto enmarcado en el [[http://www.buenosaires.gob.ar/sites/gcaba/files/esi_primaria.pdf][Educación sexual integral para la educación primaria]] dentro de la Ley Nacional 26.150
+concepción es la sostenida por la Organización Mundial de la Salud:
+
+/“El término ‘sexualidad’ se refiere a una dimensión fundamental del hecho de ser humano. [...] Se expresa en forma de pensamientos, fantasías, deseos, creencias, actitudes, valores, actividades, prácticas, roles y relaciones. La sexualidad es el resultado de la interacción de factores biológicos, psicológicos, socioeconómicos, culturales, éticos y religiosos o espirituales.[...] En resumen, la sexualidad se practica y se expresa en todo lo que somos, sentimos, pensamos y hacemos” ./
+** Actividades
+*** ¿cómo nos tratamos en la escuela?
+Organizando a Los chicos y las chicas en pequeños grupos y les entregamos copias de las escenas, invitándolos a que las lean juntos.
+[[file:ComoNosTratamos.png]]
+*** Los cuidados que necesitamos
+**** Cómo me gustaría que me traten los adultos en..
+El objetivo de esta actividad es que las niñas y los niños puedan reconocer y utilizar herramientas de protección frente a posibles situaciones de maltrato y/o abuso procedente de adultos y/o adolescentes, en el contexto familiar o en otros contextos.
+[[file:CuidadosQueNecesitamos.png]]
+*** Herramientas de autocuidado
+- *Respetar y proteger el cuerpo*: trabajar con los chicos y las chicas la idea de que el cuerpo de cada uno es su “territorio” y nadie puede tocar su cuerpo y sus partes íntimas si eso los pone incómodos o incómodas, o los hace sentir mal. 
+- *Aprender a decir “no”* frente a caricias, palabras o peticiones que los hacen sentir mal, incómodos o confundidos.
+- *Conocer el significado de los secretos*: nadie puede obligarlos a guardar secretos de situaciones que los hacen sentir mal, incómodos o confundidos.
+- *Solicitar ayuda*: acudir a una persona adulta cuando se enfrentan a situaciones que dañan a la propia persona o a otros u otras.
+*** Buzón de preguntas
+Se habilitó un buzón de preguntas Anónimas.
+*** Poder hablar de nuestros cambios 1
+- Se mostró al grupo una serie de ilustraciones en las que se presenten chicas y chicos en situaciones propias de esta etapa de sus vidas y pedirles que manifiesten algunos de los cambios corporales que están viviendo.A partir de las imágenes, comentarán qué les puede estar pasando a los personajes dibujados.
+*** 
+[[file:Cambios1.png]]
+*** Poder hablar de nuestros cambios 2
+- Seguidamente, se les propuso  a los chicos y a las chicas la siguiente consigna: Recuerden la primera señal de cambio que advirtieron en sus cuerpos y qué sentimientos les produjo: temor, vergüenza, alegría, sorpresa, preocupación.
+- La siguiente propuesta es grupal: Inventen una historia sobre un chico o una chica que empieza a cambiar, a quien le pasan cosas, que piensa y tiene dudas... y que se hace muchas preguntas. Pueden escribirla o preparar una dramatización.
+*** Poder hablar de nuestros cambios 3
+- Organizamos la clase en grupos y entregar a todos un juego de fichas con diferentes preguntas, para que discutan acerca de las mejores formas de completar las oraciones de las oraciones:
+*** 
+[[file:Cambios3.png]]
+*** Poder hablar de nuestros cambios 4
+- Para finalizar leímos textos informativos, analizamos infografías e hicimos mapas conceptuales sobre los temas que más salieron en nuestros intercambios y en el trabajo anterior:
+  - El ciclo menstrual
+  - Pubertad y Adolescencia
+** ¿Preguntas?
+** Créditos
+- Escuela 4 D. E. 19 Ricardo Güiraldes
+- 2017
