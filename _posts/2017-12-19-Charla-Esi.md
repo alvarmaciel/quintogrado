@@ -1,9 +1,10 @@
 ---
-layout: slide
-title: Jekyll: Make presentation page with reveal.js
-description: A presentation slide for how to use reveal.js in Jekyll
-theme: black
-transition: slide
+layout: post
+title: Educación sexual integral
+author: Alvar maciel
+tags: [educación sexual integral, proyectos, cuentos]
+subtitle: Proyectos
+category: proyectos
 ---
 
 Slide
